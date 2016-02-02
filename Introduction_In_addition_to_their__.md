@@ -1,4 +1,4 @@
-**Introduction**
+# Introduction
 
 In addition to their utility as models of human systems, flies are more closely related to and, therefore, even better models of other insect species. The olfaction-mediated feeding behaviors of insects are central to both the positive and negative impacts that insects have on human society. The integral role that insects play in the pollination of our crops depends on the insects actively seeking food. Insects cannot act as vectors for the pathogens that cause diseases like malaria, yellow fever, sleeping sickness, Chagas disease, or West Nile encephalitis without locating hosts by their olfaction to take an infectious bite. All of the roughly 100 million people per year that are infected with malaria are the target of the feeding behaviors of an infected mosquito. Thus, any insight we can gain on the mechanisms that control insect olfaction may be directly applied to enhancing the positive ways and diminishing the negative ways that insects interact with humanity.
 
