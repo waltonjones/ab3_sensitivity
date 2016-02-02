@@ -1,4 +1,4 @@
-Discussion
+# Discussion
 
 In mammalian system, NPY production is inhibited by high level of insulin and leptin \cite{Figlewicz_2008}. Although flies do not have leptin, they have several different types of insulin-like peptides (DILPs) \cite{Arquier_2008}, which may inhibit NPF production. DILPs also inhibit the expression of sNPF-R which promote the synaptic transmission in the antennal lobe \cite{Root_2011}. When the flies’ internal need of energy increases, DILPs level fall leading to loss of inhibition of NPF production in the NPF neurons and sNPF-R expression in the Or22a neurons. Working together, NPF and sNPF signaling amplify the olfactory signal to the higher brain centers and increase the food-searching ability of the flies.
 
