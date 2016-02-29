@@ -1,2 +1,0 @@
-Figure 1. The sensitivity of Drosophila Or22a neurons is modulatory. 
-A live fly and antennae mounted for SSR. A schematic drawing of an ab3 sensillum (A). The features of the SSR for the Or22a neurons’ responsiveness to apple odor and ethyl butyrate (EB) (10-6 v/v) (B). The quantification of change of the Or22a neurons’ sensitivity in early adult stage after eclosion. (C. n≥6, Error bars: 95% CI, ***P ≤ 0.001, statistics: t-test.)
