@@ -10,4 +10,5 @@ figures/fig5/fig5.png
 Specific_downregulation_of_NPFR_in__.md
 figures/fig6/fig6.png
 Discussion_In_mammalian_system_NPY__.md
+figures/fig7/fig7.png
 Materials_and_methods_Drosophila_lines__.md
