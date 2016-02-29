@@ -4,6 +4,7 @@ Results__Drosophila__show_significant_modulation__.md
 figures/fig3/fig3.png
 Figure_1_The_sensitivity_of__.md
 NPF_signaling_underlies_the_sensitization__.md
+figures/fig4/fig4.png
 Or22a_neurons_express_NPF_receptor__.md
 Specific_downregulation_of_NPFR_in__.md
 Discussion_In_mammalian_system_NPY__.md
