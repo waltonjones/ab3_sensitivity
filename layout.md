@@ -8,6 +8,7 @@ figures/fig4/fig4.png
 Figure_2_Down_regulation_of__.md
 Or22a_neurons_express_NPF_receptor__.md
 figures/fig5/fig5.png
+Figure_3_NPFR_is_expressed__.md
 Specific_downregulation_of_NPFR_in__.md
 figures/fig6/fig6.png
 Discussion_In_mammalian_system_NPY__.md
