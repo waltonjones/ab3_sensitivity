@@ -10,7 +10,6 @@ Or22a_neurons_express_Neuropeptide_F__.md
 figures/fig11/fig11.png
 Figure_3_NPFR_is_expressed__.md
 Specific_downregulation_of_NPFR_in__.md
-figures/fig6/fig6.png
 Figure_4_NPF_NPFR_signaling__.md
 Discussion_In_mammalian_system_NPY__.md
 figures/fig7/fig7.png
