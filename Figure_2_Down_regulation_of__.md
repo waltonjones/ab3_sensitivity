@@ -1,3 +1,0 @@
-Figure 2. Down-regulation of NPF desensitize fruit odor-sensitive Or22a neurons.
-
-Immunostaining for NPF after NPF knocked-down shows absence of NPF in the brain. Inverted repeat (IR) stands for RNAi construct (A). Knock-down of NPF in pan-peptidergic neurons by using 386Y-Gal4, in specific NPF producing neurons by using NPF-Gal4 significantly reduces the sensitivity of Or22a neurons (B, C. n≥6, Error bars: 95% CI, statistics: 2-way ANOVA, **P ≤ 0.01, ***P ≤ 0.001). Canton S female flies exposed to the parasitoid female wasps (Leptopilina heterotoma) for one week show reduced Or22a neurons sensitivity to EB 10-6 v/v (D. n=6, box plot, t-test *P ≤ 0.05).
