@@ -3,7 +3,6 @@ Introduction_In_addition_to_their__.md
 Results__Drosophila__show_significant_modulation__.md
 figures/fig3/fig3.png
 Figure_1_The_sensitivity_of__.md
-figures/fig8/fig8.png
 figures/fig9/fig9.png
 NPF_signaling_underlies_the_sensitization__.md
 figures/fig4/fig4.png
