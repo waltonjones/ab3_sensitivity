@@ -3,7 +3,7 @@ Introduction_In_addition_to_their__.md
 Results__Drosophila__show_significant_modulation__.md
 figures/fig9/fig9.png
 Figure_1_The_sensitivity_of__.md
-NPF_signaling_underlies_the_sensitization__.md
+NPF_NPFR_signaling_underlies_the__.md
 figures/fig10/fig10.png
 Figure_2_Down_regulation_of__1.md
 Or22a_neurons_express_Neuropeptide_F__.md
