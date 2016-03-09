@@ -1,0 +1,3 @@
+Figure 1. The sensitivity of Drosophila Or22a neurons is modulatory. 
+
+The features of the signle-sensillum electrophysiological recordings (SSR) for Or22a neurons and other adjacent neurons. Or22a neurons show specific responsiveness to apple odor and ethyl butyrate (EB) (10-5 v/v) (A). The quantification of change of the Or22a neurons’ sensitivity in early adult stage after eclosion (B. n≥6, Error bars: 95% CI, ***P ≤ 0.001, statistics: t-test.). The quantification of change of Or22a neurons’ sensitivity after flies are exposed to the parasitoid wasps Leptopilina heterotoma (C)
