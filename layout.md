@@ -6,7 +6,7 @@ Figure_1_The_sensitivity_of__.md
 NPF_signaling_underlies_the_sensitization__.md
 figures/fig10/fig10.png
 Figure_2_Down_regulation_of__1.md
-Or22a_neurons_express_NPF_receptor__.md
+Or22a_neurons_express_Neuropeptide_F__.md
 Figure_3_NPFR_is_expressed__.md
 Specific_downregulation_of_NPFR_in__.md
 figures/fig6/fig6.png
