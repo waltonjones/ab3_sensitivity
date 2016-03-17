@@ -2,7 +2,7 @@ abstract.md
 Introduction_In_addition_to_their__.md
 Results__Drosophila__show_significant_modulation__.md
 figures/fig9/fig9.png
-Figure_1_The_sensitivity_of__.md
+Figure_1_Modulation_of_peripheral__.md
 NPF_NPFR_signaling_underlies_the__.md
 figures/fig10/fig10.png
 Figure_2_Down_regulation_of__1.md
