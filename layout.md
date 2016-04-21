@@ -1,7 +1,7 @@
 0_abstract.md
 1_intro.md
 2_results_ab3A_modulation.md
-figures/Fig1/fig1.png
+figures/fig1/fig1.png
 3_results_wasps.md
 figures/fig2/fig2.png
 4_results_npfr.md
