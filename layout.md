@@ -1,12 +1,12 @@
 0_abstract.md
 1_intro.md
-2_results_ab3A_modulation.md
+2-r-ab3A_modulation.md
 figures/fig1/fig1.png
-3_results_wasps.md
+3-r-wasps.md
 figures/fig2/fig2.png
-4_results_npfr.md
+4-r-npfr.md
 figures/fig3/fig3.png
-5_results_behavior.md
+5-r-behavior.md
 figures/fig4/fig4.png
 6_discussion.md
 figures/fig5/fig5.png
