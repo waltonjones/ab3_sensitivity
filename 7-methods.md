@@ -4,9 +4,13 @@
 Single sensillum electrophysiological recordings: The responses of individual olfactory neurons were recorded with the tungsten microelectrodes sharpened by electrolysis. The electrodes were inserted in the large basiconic sensilla as previously described [3]. The recording equipment and software were supplied by Syntech. 
 
 **Single sensillum electrophysiological recordings**
+
 The sensitivity of an individual olfactory neuron was evaluated by counting the number of action potentials which were recorded by using IDAC4 apparatus and Autospike program made by Syntech. For sharpening the tungsten microelectrodes by electrolysis, 0.7 molar NaOH solution, 3 A and 18 V of electric current and voltage were applied respectively. 
+
 A fly was mounted on a slide glass as previously described \cite{de_Bruyne_2001}. Then, two prepared tungsten electrodes were inserted in both one of the compound eyes, for reference recording, and in a large basiconic sensilla, for recording the ORN’s activities.
+
 A small piece of filter paper was soaked with 3 ul of odor-paraffin oil emulsion, and immediately inserted in a pasteur pipette with 5 mm diameter. The pasteur pipette was next connected to the air-pump which delivers controlled amount of filtered air (CS 55 from Syntech), for 0.5 second, odor was delivered onto the mounted live fly. 
+
 The number of odor-evoked action potential was counted from the most spike-rich 200 ms time section which is within 0.5 second after odor delivery. The net number of odor-evoked action potentials was calculated by subtracting the number of spontaneous action potentials that was recorded right before the odor delivery. The calculated net number of odor-evoked action potentials was then converted for spikes/sec.
 
 **Odor stimulation**: Ethyl butyrate, the odor for activating Or22a neurons, was from Sigma-Aldrich which dissolved in paraffin oil, as previously described [3], by serial dilution, to make the concentration of 10-5, 10-6 (v/v). 3 µl of diluted odor was applied onto a piece of filter paper and inserted into a glass pasteur pipette, by the controlled air-pumping system, the odor was delivered onto the mounted fly’s antennae for 0.5 seconds.
