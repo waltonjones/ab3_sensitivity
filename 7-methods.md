@@ -18,6 +18,4 @@ The number of odor-evoked action potential was counted from the most spike-rich 
 
 **Immunohistochemistry**: Immunostaining on the whole-mount brains was performed as described previously [11]. The anti-NPF rabbit policlonal antibody from RayBiotech (product #RB-19-0001) was diluted to make 50 µg/ml before use. The neuropil-labeling nc82 antibody from DSHB was used at the concentration 7 µg/ml. Goat anti-rabbit IgG Alexa Fluor® 488 (ab150085) and Goat anti-mouse IgG Alexa Fluor® 594 (A-11005), was used for the secondary antibodies.
 
-**Parasitoid wasps**: The common wasp parasite of Drosophila melanogaster larvae in nature, Leptopilina heterotoma was presented by Giovanni Bosco's lab
-
 **Behavioral analysis**: >10 assay sets for one genotype were prepared as described in (Fig 6-A). The assay sets were kept in a dark room for about 35 hours, after then, started counting the flies moved into the odor-chamber. Once the success rate of any group exceed 80%, the experiment was stopped and quantified and statistically analyzed.   
