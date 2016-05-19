@@ -4,8 +4,8 @@ Unless otherwise indicated, we maintained all fly stocks at 25 ºC and 60% relat
 Canton-S (BDSC #1) and w<sup>1118</sup> (BDSC #5905) were used as genetic background controls. NPF-Gal4 flies (BDSC #25681) were used to knock-down NPF mRNA along with the UAS-NPF-RNAi (VDRC #108772) flies. 386Y-Gal4 flies (BDSC #25410) were used to knock-down NPF mRNA in the broad range of peptidergic neurons along with UAS-NPF-RNAi (VDRC #108772) flies. NPFRPBac flies (BDSC #10747) were used for testing the sensitivity of Or22a neurons by electrophysiology combined with the NPFR gene-deficient (BDSC #1982) flies. Orco-Gal4 flies (Dieter Wicher's lab) and Or22a-Gal4 flies (BDSC #9951) were used for OSN-specific knock-down of NPFR along with UAS-NPFR-RNAi (VDRC #9605) flies.
 
 ### Electrophysiology
-We recorded the activity of individual olfactory sensilla by inserting electrolytically sharpened tungsten microelectrodes into large basiconic sensilla as previously described \cite{Larsson_2004} using equipment and software supplied by Syntech (Germany).
-The sensitivity of an individual olfactory neuron was evaluated by counting the number of action potentials which were recorded by using IDAC4 apparatus and Autospike program made by Syntech. For sharpening the tungsten microelectrodes by electrolysis, 0.7 molar NaOH solution, 3 A and 18 V of electric current and voltage were applied respectively.
+We recorded the activity of large basiconic sensilla by inserting electrolytically sharpened tungsten microelectrodes as previously described \cite{Larsson_2004} using equipment and software supplied by Syntech (Germany).
+The sensitivity of an individual olfactory neuron was evaluated by counting the number of action potentials which were recorded by using IDAC4 apparatus and Autospike program made by Syntech.
 
 A fly was mounted on a slide glass as previously described \cite{de_Bruyne_2001}. Then, two prepared tungsten electrodes were inserted in both one of the compound eyes, for reference recording, and in a large basiconic sensilla, for recording the ORN’s activities.
 
