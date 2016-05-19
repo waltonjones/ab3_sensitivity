@@ -1,2 +1,3 @@
 Figure 1. Drosophila Or22a ORN is robustly activated by fruity odor ethyl butyrate
-The electrophysiological single sensillum recordings for Or22a ORNs. 
+
+The electrophysiological single sensillum recordings (SSR) for Or22a neurons. Each odor was delivered to the tested sensilla for 0.5 second (A). The quantification of the SSR (B). The sensitivity of Drosophila Or22a neurons are increased over time after eclosion.
