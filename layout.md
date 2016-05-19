@@ -11,5 +11,5 @@ figures/fig4/fig4.png
 6-discussion.md
 figures/fig5/fig5.png
 7-methods.md
-Supplementary_Data_The_change_of__.md
+Supplementary_data__.md
 figures/Supplementary data 1/Supplementary data 1.png
