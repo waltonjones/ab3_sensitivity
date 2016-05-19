@@ -1,7 +1,7 @@
 0-abstract.md
 1-intro.md
 2r-ab3A_modulation.md
-figures/fig1/fig1.png
+figures/fig7/fig7.png
 3r-wasps.md
 figures/fig2/fig2.png
 4r-npfr.md
@@ -11,3 +11,5 @@ figures/fig4/fig4.png
 6-discussion.md
 figures/fig5/fig5.png
 7-methods.md
+Supplementary_Data_The_change_of__.md
+figures/Supplementary data 1/Supplementary data 1.png
