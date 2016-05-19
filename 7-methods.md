@@ -1,24 +1,17 @@
 # Materials and methods
 ### Fly stocks
 Unless otherwise indicated, we maintained all fly stocks at 25 ºC and 60% relative humidity under a 12h:12h light:dark cycle on standard cornmeal-yeast-corn syrup medium with 1.5 g/L of the anti-fungal Tegosept.
-Canton-S (BDSC #1) and w<sup>1118</sup> (BDSC #5905) were used as genetic background controls. NPF-Gal4 flies (BDSC #25681) were used to knock-down NPF mRNA along with the UAS-NPF-RNAi (VDRC #108772) flies. 386Y-Gal4 flies (BDSC #25410) were used to knock-down NPF mRNA in the broad range of peptidergic neurons along with UAS-NPF-RNAi (VDRC #108772) flies. NPFRPBac flies (BDSC #10747) were used for testing the sensitivity of Or22a neurons by electrophysiology combined with the NPFR gene-deficient (BDSC #1982) flies. Orco-Gal4 flies (Dieter Wicher's lab) and Or22a-Gal4 flies (BDSC #9951) were used for OSN-specific knock-down of NPFR along with UAS-NPFR-RNAi (VDRC #9605) flies.
+We acquired the following fly stocks from either the Bloomington Drosophila Stock Center (BDSC) or the Vienna Drosophila Resource Center (VDRC) for use in our experiments :  Canton-S (BDSC #1), w<sup>1118</sup> (BDSC #5905), NPF-GAL4 (BDSC #25681), UAS-NPF-IR1 (VDRC #108772), 386Y-GAL4 (BDSC #25410), NPFR<sup>PBac</sup> (BDSC #10747), NPFR<sup>Def</sup> (BDSC #1982), Orco-GAL4 (BDSC #23292), Or22a-GAL4  (BDSC #9951), UAS-NPFR-IR1 (VDRC #9605).
 
 ### Electrophysiology
-We recorded the activity of large basiconic sensilla by inserting electrolytically sharpened tungsten microelectrodes as previously described \cite{Larsson_2004} using equipment and software supplied by Syntech (Germany).
-The sensitivity of an individual olfactory neuron was evaluated by counting the number of action potentials which were recorded by using IDAC4 apparatus and Autospike program made by Syntech.
+We performed single sensillum electrophysiological recordings by inserting electrolytically sharpened tungsten electrodes into large basiconic sensilla as previously described \cite{Benton_2011ei}. To do so, we used a universal single-ended probe, a data acquisition controller (IDAC4), a CS55 stimulus controller, and the Autospike software supplied by Syntech (Germany).
 
-A fly was mounted on a slide glass as previously described \cite{de_Bruyne_2001}. Then, two prepared tungsten electrodes were inserted in both one of the compound eyes, for reference recording, and in a large basiconic sensilla, for recording the ORN’s activities.
+All odors were purchased from Sigma-Aldrich (USA) at the highest purity available and suspended in paraffin oil at the indicated dilutions. Odors were delivered by adding 3 µl of an odor-paraffin oil emulsion to a small piece of filter paper. This was immediately inserted into a standard pasteur pipette. After connecting this odor cartridge to the stimulus controller, we used a pedal-switch to trigger a 0.5 s switch between odorous and non-odorous air streams  to the antennae of a live, restrained fly.
 
-A small piece of filter paper was soaked with 3 µl of odor-paraffin oil emulsion, and immediately inserted in a pasteur pipette with 5 mm diameter. The pasteur pipette was next connected to the air-pump which delivers controlled amount of filtered air (CS 55 from Syntech), for 0.5 second, odor was delivered onto the mounted live fly.
+We calculated peak odor-evoked firing rates by counting the spikes occurring in the most action potential-rich 200 ms region within 0.5 s of odor stimulus initiation. After converting this to spikes per second, we subtracted the number of spontaneous action potentials that occurred within a 1 s window before odor delivery.
 
-The number of odor-evoked action potential was counted from the most spike-rich 200 ms time section which is within 0.5 second after odor delivery. The net number of odor-evoked action potentials was calculated by subtracting the number of spontaneous action potentials that was recorded right before the odor delivery. The calculated net number of odor-evoked action potentials was then converted for spikes/sec.
+### Immunohistochemistry
+Immunostaining on the whole-mount brains was performed as previously described  [11]. We purchased the rabbit polyclonal anti-NPF antibody from RayBiotech (#RB-19-0001, USA) and used it at a concentration of 50 µg/ml. We purchased the neuropil marker nc82 from the DSHB (USA) and used it at a concentration of 7 µg/ml. We used goat anti-rabbit IgG Alexa Fluor 488 (ab150085) and goat anti-mouse IgG Alexa Fluor 594 (A-11005) secondary antibodies from Thermofisher (USA) and used them at a 1:1000 dilution.
 
-
-###Odor preparation
-Ethyl butyrate, the odor for activating Or22a neurons, was from Sigma-Aldrich which dissolved in paraffin oil, as previously described [3], by serial dilution, to make the concentration of 10-5, 10-6 (v/v). 3 µl of diluted odor was applied onto a piece of filter paper and inserted into a glass pasteur pipette, by the controlled air-pumping system, the odor was delivered onto the mounted fly’s antennae for 0.5 seconds.
-
-###Immunohistochemistry 
-Immunostaining on the whole-mount brains was performed as described previously [11]. The anti-NPF rabbit policlonal antibody from RayBiotech (product #RB-19-0001) was diluted to make 50 µg/ml before use. The neuropil-labeling nc82 antibody from DSHB was used at the concentration 7 µg/ml. Goat anti-rabbit IgG Alexa Fluor® 488 (ab150085) and Goat anti-mouse IgG Alexa Fluor® 594 (A-11005), was used for the secondary antibodies.
-
-###Behavioral analysis
->10 assay sets for one genotype were prepared as described in (Fig 6-A). The assay sets were kept in a dark room for about 35 hours, after then, started counting the flies moved into the odor-chamber. Once the success rate of any group exceed 80%, the experiment was stopped and quantified and statistically analyzed.   
+### Behavioral analysis
+\>10 assay sets for one genotype were prepared as described in (Fig. 6A). The assay sets were kept in a dark room for about 35 hours, after then, started counting the flies moved into the odor-chamber. Once the success rate of any group exceed 80%, the experiment was stopped and quantified and statistically analyzed.   
