@@ -2,6 +2,7 @@
 1-intro.md
 2r-ab3A_modulation.md
 figures/fig1/fig1.png
+figures/fig6/fig6.png
 3r-wasps.md
 figures/fig2/fig2.png
 4r-npfr.md
