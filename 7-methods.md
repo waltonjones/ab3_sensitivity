@@ -11,7 +11,7 @@ All odors were purchased from Sigma-Aldrich (USA) at the highest purity availabl
 We calculated peak odor-evoked firing rates by counting the spikes occurring in the most action potential-rich 200 ms region within 0.5 s of odor stimulus initiation. After converting this to spikes per second, we subtracted the number of spontaneous action potentials that occurred within a 1 s window before odor delivery.
 
 ### Immunohistochemistry
-Immunostaining on the whole-mount brains was performed as previously described \cite{Vosshall_2000}. We used the rabbit polyclonal anti-NPF antibody from RayBiotech (#RB-19-0001, USA) at a concentration of 50 µg/ml. We used the neuropil marker nc82 (AB_2314866) from the DSHB (USA) at a concentration of 7 µg/ml. We used the goat anti-rabbit IgG Alexa Fluor 488 (ab150085) and goat anti-mouse IgG Alexa Fluor 594 (A-11005) secondary antibodies from Thermofisher (USA) at a 1:1000 dilution.
+Immunostaining on the whole-mount brains was performed as previously described \cite{Vosshall_2000}. We used the rabbit polyclonal anti-NPF antibody (RB-19-0001) from RayBiotech (USA) at a concentration of 50 µg/ml. We used the neuropil marker nc82 (AB_2314866) from the DSHB (USA) at a concentration of 7 µg/ml. We used the goat anti-rabbit IgG Alexa Fluor 488 (ab150085) and goat anti-mouse IgG Alexa Fluor 594 (A-11005) secondary antibodies from Thermofisher (USA) at a 1:1000 dilution.
 
 ### Behavioral analysis
 \>10 assay sets for one genotype were prepared as described in (Fig. 6A). The assay sets were kept in a dark room for about 35 hours, after then, started counting the flies moved into the odor-chamber. Once the success rate of any group exceed 80%, the experiment was stopped and quantified and statistically analyzed.   
