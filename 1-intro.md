@@ -1,7 +1,12 @@
 # Introduction
 
 Neuropeptides are small peptide molecules utilized by neurons for communicating each other.
-The olfaction-mediated feeding behaviors of insects are central to both positive and negative impacts that insects have on human society. The integral role that insects play in the pollination of our crops depends on the insects actively seeking food. Insects cannot act as vectors for the pathogens that cause diseases like malaria, yellow fever, sleeping sickness, Chagas disease, or West Nile encephalitis without locating hosts by their olfaction to take an infectious bite. All of the roughly 100 million people per year that are infected with malaria are the target of the feeding behaviors of an infected mosquito. Thus, any insight we can gain on the mechanisms that control insect olfaction may be directly applied to enhancing the positive ways and diminishing the negative ways that insects interact with humanity.
+
+
+
+
+
+In addition to _Drosophila_'s utility as a model of human system, they are more closely related to and, therefore, even better models of other insect species. The olfaction-mediated feeding behaviors of insects are central to both positive and negative impacts that insects have on human society. The integral role that insects play in the pollination of our crops depends on the insects actively seeking food. Insects cannot act as vectors for the pathogens that cause diseases like malaria, yellow fever, sleeping sickness, Chagas disease, or West Nile encephalitis without locating hosts by their olfaction to take an infectious bite. All of the roughly 100 million people per year that are infected with malaria are the target of the feeding behaviors of an infected mosquito. Thus, any insight we can gain on the mechanisms that control insect olfaction may be directly applied to enhancing the positive ways and diminishing the negative ways that insects interact with humanity.
 
 _Drosophila_ also offers great tractability in genetic manipulation through the mass genetic tools that have been accumulated for over a hundred years. One of the most convenient tools among those for tissue specific analysis is the Gal4-UAS binary expression system. Gal4 is the transcription activator protein originated from yeast. It binds to the upstream activation sequence (UAS) and stimulates the transcription of the gene at the downstream of UAS. Since the Gal4 is not an endogenous protein for flies, without UAS, it does nothing in fly cells. For cell type-specific expression of Gal4, a desired promoter fragment can be fused with a Gal4 structural gene and introduced into the fly genome.
 
