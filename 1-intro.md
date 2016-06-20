@@ -4,6 +4,8 @@ The olfaction-mediated feeding behaviors of insects are central to both positive
 
 Food-related olfactory neuronal signal is transmitted from the Insect’s olfactory periphery to higher brain centers like mushroom body and lateral horn, centers for learning & memory and innate behaviors respectively, via antennal lobes. On the other way, the central brain sends signals to periphery according to the body’s internal needs in order to induce appropriate responses and behaviors. NPF is a known neuropeptide that is secreted by NPF producing cells in the brain, that stimulates feeding \cite{Wu_2003}\cite{Wu_2005}. 
 
+------------------------------------------------------------------------------
+
 Therefore, investigating the mechanisms controlling the olfactory sensitivity of insects, especially to their food odor, may be able to give insights on the ways for enhancing and diminishing the merits and the demerits of insects affecting human society.
 
 _Drosophila_ also offers great tractability in genetic manipulation through the mass genetic tools that have been accumulated for over a hundred years. One of the most convenient tools among those for tissue specific analysis is the Gal4-UAS binary expression system. Gal4 is the transcription activator protein originated from yeast. It binds to the upstream activation sequence (UAS) and stimulates the transcription of the gene at the downstream of UAS. Since the Gal4 is not an endogenous protein for flies, without UAS, it does nothing in fly cells. For cell type-specific expression of Gal4, a desired promoter fragment can be fused with a Gal4 structural gene and introduced into the fly genome.
