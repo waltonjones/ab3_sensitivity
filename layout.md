@@ -1,4 +1,3 @@
-figures/fig11/fig11.png
 0-abstract.md
 1-intro.md
 2r-ab3A_modulation.md
@@ -8,6 +7,7 @@ figures/fig10/fig10.png
 4r-npfr.md
 figures/fig3/fig3.png
 5r-behavior.md
+figures/fig11/fig11.png
 figures/fig4/fig4.png
 6-discussion.md
 figures/fig5/fig5.png
