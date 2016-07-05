@@ -1,4 +1,3 @@
-figures/fig8/fig8.png
 0-abstract.md
 1-intro.md
 2r-ab3A_modulation.md
