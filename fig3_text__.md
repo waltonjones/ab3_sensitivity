@@ -1,3 +1,3 @@
-fig3
+**fig3**
 
 text
