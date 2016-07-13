@@ -1,1 +1,3 @@
-Replace this text with your caption
+**Figure 3. Sexual dimorphic NPF expression elicit different rates of sensitization between males and females**
+
+figure legend
