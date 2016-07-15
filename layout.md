@@ -10,7 +10,6 @@ figures/fig14/fig14.png
 figures/fig3/fig3.png
 5r-behavior.md
 figures/fig12/fig12.png
-figures/fig11/fig11.png
 6-discussion.md
 figures/fig5/fig5.png
 7-methods.md
