@@ -12,7 +12,6 @@ figures/fig14/fig14.png
 figures/fig3/fig3.png
 5r-behavior.md
 figures/fig17/fig17.png
-figures/fig16/fig16.png
 figures/fig12/fig12.png
 6-discussion.md
 figures/fig5/fig5.png
