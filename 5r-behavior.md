@@ -1,4 +1,4 @@
-**Specific downregulation of NPFR in Or22a neurons disrupt disrupts flies’ behavior attraction to food odor**
+**Specific knock-down of NPFR in Or22a neurons disrupts fly‘s behavioral attraction to food odor**
 
 Finally, we tested the importance of NPF-NPFR signaling for Or22a neurons in flies’ foraging behavior. One of the conventional methods which have been used for testing flies’ attraction behavior is the trap-assay \cite{Park_2002}. However, testing flies’ behavior in group often produces confusing results, probably because of the behavioral interferences caused by other flies, masking the effects of the tested odorants \cite{Ramdya_2014}.
 To address this problem, we designed new assay for single fly’s attraction behavior (Fig 4-A). This assay is composed of the two chambers. A single fly is introduced into the bigger chamber with water-wet Kimwipes, and by a narrow tube, the bigger chamber is connected to the smaller chamber with diluted apple juice. The assays are kept in the dark room, then the number of the flies that moved into the apple juice chamber is counted and quantified. 
