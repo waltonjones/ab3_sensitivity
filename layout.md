@@ -11,6 +11,7 @@ figures/fig14/fig14.png
 4r-npfr.md
 figures/fig18/fig18.png
 5r-behavior.md
+figures/fig22/fig22.png
 figures/fig21/fig21.png
 6-discussion.md
 figures/fig5/fig5.png
