@@ -1,17 +1,14 @@
 # Introduction
-The olfaction-mediated feeding behaviors of insects are central to both positive and negative impacts that they have on human society.
-The integral role in the pollination of our crops depends on the insects actively seeking food.
-On the other, insects cannot act as vectors for the pathogens that cause diseases like malaria, yellow fever, sleeping sickness, Chagas disease, or West Nile encephalitis without locating hosts by their olfaction to take an infectious bite.
-All of the roughly 100 million people per year who infected with malaria were the targets for blood-feeding of the infected mosquitoes.
+Olfactory-guided behaviors, especially feeding behaviors, are central to both the positive and negative impact insects have on human society.
+Honeybees and other insect pollinators depend heavily on their highly sensitive olfactory systems to find food.
+Similarly, blood-feeding insects like the malaria mosquito _Anopheles gambiae_ would be much less effective in transmitting infectious pathogens if they lost their ability to detect the odor signatures of their human hosts.
 
-Insect olfaction detects thousands of different environmental chemicals at various sensitivity thresholds to improve food and mate seeking and in danger avoidance.
-Olfactory sensitivity thresholds can also be modulated depending on internal and external cues to adapt odor-guided behaviors to changing conditions.
-However, the mechanisms and the elements involved in the peripheral olfactory sensitization are still in veil.
+Insect olfactory systems detect thousands of environmental chemicals at varying concentration thresholds adapted by evolution for directing appropriate behavioral responses.
+These olfactory sensitivity thresholds, however, often require modulation depending on both internal and external cues to flexibly adapt odor-guided behaviors to changing environmental conditions.
+Here, we use the genetic model organism _Drosophila melanogaster_ to investigate the mechanisms underlying sensory adaptation in a specific population of olfactory neurons that detect food-related odors.
 
-For this research, Drosophila, as an insect model, offers great tractability in genetic manipulation through the mass genetic tools that have been accumulated for over a hundred years.
-The major olfactory organs of Drosophila are the antennae and maxillary palps.
-These organs are covered by a dense population of hairs called sensilla.
-Each sensillum is filled with sensory lymph and is innervated by the dendrites of between one and four ORNs.
+_Drosophila_ have two types of paired olfactory organs---the antennae and maxillary palps---that are covered in porous hair-like projections called sensilla.
+These sensilla, which are filled with sensory lymph, house the dendrites of one to four olfactory sensory neurons (OSNs).
 When the molecules of an odor encounter Drosophila antennae, they diffuse into the sensilla through the pores and dissolve in the sensory lymph.
 Then the molecules are delivered to the olfactory receptors (ORs) and bind to them.
 Olfactory neuronal signal is transmitted from the Insect's olfactory periphery to higher brain centers like mushroom body and lateral horn, centers for learning & memory and innate behaviors respectively, via antennal lobes.
