@@ -9,6 +9,7 @@ figures/fig15/fig15.png
 NPF_NPFR_signaling_actively_sensitize__.md
 figures/fig14/fig14.png
 4r-npfr.md
+figures/fig23/fig23.png
 figures/fig18/fig18.png
 5r-behavior.md
 figures/fig22/fig22.png
