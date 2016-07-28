@@ -15,7 +15,7 @@ When an animal reaches sexual maturity, for example, an increase in its sensitiv
 In hungry flies, increased expression of the neuropeptide receptor sNPFR leads to a pre-synaptic facilitation of food-related olfactory circuits that drives increased food search behaviors \cite{Root_2011}.
 Here, we investigate another mechanism underlying the sensitivity modulation of a specific population of OSNs in _Drosophila_ that detect food-related odors.
 
-Specifically, we identify a role for the NPF in the sensitivity modulation of a specific population of OSNs in _Drosophila_ that detect fruity-smelling esters.
+Specifically, we identify a role for the neuropeptide NPF in the sensitivity modulation of a specific population of OSNs in _Drosophila_ that detect fruity-smelling esters.
 We show NPF neuron-specific knock-down of NPF reduces the sensitivity of ab3A neurons, which express OR22a, to ethyl butyrate, a volatile ester found in apples and other fruits.
 We also show OR22a neuron-specific knock-down of NPFR produces a similar reduction in sensitivity and disrupts the ability of the flies to locate food.
 Thus, our results demonstrate that, in addition to regulating appetite and food-seeking behavior, the NPF-NPFR signaling axis  also regulates peripheral sensitivity to food odors.
