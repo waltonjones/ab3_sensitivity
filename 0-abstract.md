@@ -1,4 +1,4 @@
-Animal olfactory systems have evolved to detect volatile chemicals in the nearby environment at varying sensitivities.
+Animal olfactory systems are detecting volatile chemicals in the nearby environment at varying sensitivities.
 Animals integrate olfactory information to efficiently find food and mates and also to avoid danger.
 Rather than remaining constant, olfactory sensitivity thresholds are modulated by internal and external cues to adapt odor-guided behaviors to changing conditions.
 Here, we demonstrate in *Drosophila melanogaster* that neuropeptide F (NPF) modulates the sensitivity of a specific population of antennal olfactory receptor neurons (ORNs) to food-derived odors.
