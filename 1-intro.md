@@ -9,7 +9,7 @@ Odor molecules diffuse through pores in the surface of the olfactory sensilla, d
 Since insect ORs are ligand-gated ion channels, this odor binding gates a non-selective cation current that triggers action potentials in the OSNs.
 These odor-evoked spikes pass up the OSN axons bundled into the antennal nerve to the antennal lobe for processing before the olfactory information they encode is sent on to higher level processing centers like the mushroom body and lateral horn.
 
-Insect olfactory systems detect thousands of environmental chemicals at varying concentration thresholds adapted by evolution for directing appropriate behavioral responses.
+Insect olfactory systems detect thousands of environmental chemicals at varying concentration thresholds for directing appropriate behavioral responses.
 These olfactory sensitivity thresholds, however, often require modulation depending on both internal and external cues to flexibly adapt odor-guided behaviors to changing environmental conditions.
 When an animal reaches sexual maturity, for example, an increase in its sensitivity to sex pheromones or other conspecific odors should improve its chances of productive mating.
 In hungry flies, increased expression of the neuropeptide receptor sNPFR leads to a pre-synaptic facilitation of food-related olfactory circuits that drives increased food search behaviors \cite{Root_2011}.
