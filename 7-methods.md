@@ -25,5 +25,5 @@ We used the goat anti-rabbit IgG Alexa Fluor 488 (ab150085) and goat anti-mouse 
 The flies for the behavior assay were aged at least for 5-10 days, habituated to apple juice food for >1 day.
 Each fly was introduced into one assay vial, illustrated on figure 4, >10 assay vials for each group were set and kept in dark chamber at 25 degree-centigrade for 40 hours without any vibration.
 Since after 40 hours, on a two hour cycle, dark chamber was opened for counting the flies that moved into odor chamber.
-Once 80% flies of any group moved into odor-chamber, the experiment was stopped and results were calculated for statistics.
+Once >80% flies of any group moved into odor-chamber, the experiment was stopped and results were calculated for statistics.
 Statistical analysis was done by Fisher's exact test which is commonly used for the data composed of two variables.
