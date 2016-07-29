@@ -1,5 +1,7 @@
 ## NPF-NPFR signaling underlies the maturation-related changes in ab3A sensitivity
 
+By screening transposon-inserted mutants and neuronal-gal4 driven gene knock-down strategies, we found that knock-down of NPF in peptidergic neurons reduce the sensitivity of ab3A neurons (Fig 2-A). We also confirmed this phenotype by using NPF producing neuron-specific Gal4 and NPF RNAi (Fig 2-B, E). 
+
 Out of the results of gene knock-down screenings and preliminary experiments, we found knock-down of NPF, by using NPF RNAi and 386Y-Gal4 pan-peptidergic neuron driver, reduces the sensitivity of Or22a neurons (Fig 2-B).
 Again, as expected, knock-down of NPF by using NPF producing neuron-specific NPF-Gal4 driver, also desensitized Or22a neurons as well (Fig 2-C).
 Furthermore, prolonged exposure of the female parasitoid wasps, Leptopilina heterotoma, to the female wild-type flies significantly reduced the sensitivity of Or22a neurons (Fig 2-D), which is a consistent result with the previous report that exposing female parasitoid wasps to female fruit flies reduces NPF level in the fly brain \cite{Kacsoh_2013}.
