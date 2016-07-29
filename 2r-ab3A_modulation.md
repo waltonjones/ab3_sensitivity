@@ -10,8 +10,6 @@ By using electrophysiological single-sensillum recordings (SSR), we examined fru
 As expected, ab3A neurons robustly responded to the apple odor, in addition, they were sensitive enough to respond to the very low concentration of ethyl butyrate (Fig.
 1-B).
 
-Next we wondered, if the sensitivity of Or22a neurons is changeable.
-Indeed, we found the sensitivity of Or22a neurons to fruit odor ethyl butyrate increases over time after eclosion until it reaches to the maximum level in 3 days (Fig 1-C).
-This result suggests that it is possible to make the insects' olfactory sensitivity stay low by removal of the genetic components underlying the sensitization mechanisms.
+Next we wondered if the sensitivity of ab3A neurons is always constant or conditionally changeable. Surprisingly, we found the sensitivity of ab3A neurons to ethyl butyrate increased over time after eclosion during the early maturation period until it reached to the maximum level in 3 days (Fig 1-C). This result suggests that the sensitivity of ab3A neurons is not inborn property. Instead, there must be a certain mechanism getting those neurons sensitized.
 
 
