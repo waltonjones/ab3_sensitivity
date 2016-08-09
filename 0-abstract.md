@@ -1,5 +1,4 @@
-Animal olfactory systems are detecting volatile chemicals in the nearby environment at varying sensitivities.
-Animals integrate olfactory information to efficiently find food and mates and also to avoid danger.
+Animal olfactory systems detect volatile environmental chemicals and integrate this information to direct the finding of food and mates as well as the avoidance of danger.
 Rather than remaining constant, olfactory sensitivity thresholds are modulated by internal and external cues to adapt odor-guided behaviors to changing conditions.
 Here, we demonstrate in *Drosophila melanogaster* that neuropeptide F (NPF) modulates the sensitivity of a specific population of antennal olfactory receptor neurons (ORNs) to food-derived odors.
 We show knock-down of NPF in NPF neurons specifically reduces the sensitivity of Or22a neurons to ethyl butyrate, a volatile ester found in apples and other fruits.
