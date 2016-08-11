@@ -1,4 +1,4 @@
-## NPF-NPFR signaling underlies the maturation-related changes in ab3A sensitivity
+## NPF-NPFR signaling underlies the sensitization mechanisms in ab3A sensitivity
 
 To identify the genes that affect ab3A neuron’s sensitivity, we have screened the genes by using transposon-inserted mutants and neuronal Gal4 driven RNAi expressing flies.
 
