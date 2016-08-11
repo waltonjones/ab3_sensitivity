@@ -1,6 +1,6 @@
 ## NPF-NPFR signaling underlies the sensitization mechanism in ab3A sensitivity
 
-By using transposon-inserted mutants and neuronal Gal4 driven RNAi expressing flies, which are down-regulated for the candidate genes, we have screened and identified the genes that affect ab3A neuron’s sensitivity. Interestingly, among the identified genes, we found that peptidergic neuron-specific knock-down of NPF, which is known to be related with taste and feeding \cite{Wu_2003} \cite{Inagaki_2014}, significantly desensitized ab3A neurons.
+By using transposon-inserted mutants and neuronal Gal4 driven RNAi expressing flies, which are down-regulated for the candidate genes, we have screened and identified the genes that affect ab3A neuron’s sensitivity. Interestingly, among the identified genes, we found that peptidergic neuron-specific knock-down of NPF, which is known to be related with taste and feeding \cite{Wu_2003} \cite{Inagaki_2014}, significantly desensitized ab3A neurons (Fig 2-A).
 
 To identify the genes that affect ab3A neuron’s sensitivity, we have screened the genes by using transposon-inserted mutants and neuronal Gal4 driven RNAi expressing flies.
 
