@@ -4,11 +4,4 @@ By using transposon-inserted mutants and neuronal Gal4 driven RNAi expressing fl
 
 Surprisingly, knock-down of NPF in the NPF producing neurons elicited specific desensitization of ab3A neurons. The quantification result for the sensitivity of all three types of large basiconic sensilla show that knock-down of NPF have no effect on neither ethyl butyrate-sensitive ab1A/B, nor methyl acetate-sensitive ab2A neurons (Fig 2-B, C, D). 
 
-To identify the genes that affect ab3A neuron’s sensitivity, we have screened the genes by using transposon-inserted mutants and neuronal Gal4 driven RNAi expressing flies.
-
-By screening transposon-inserted mutants and neuronal-gal4 driven gene knock-down strategies, we found that knock-down of NPF in peptidergic neurons reduce the sensitivity of ab3A neurons (Fig 2-A). We also confirmed this phenotype by using NPF producing neuron-specific Gal4 and NPF RNAi (Fig 2-B, E). 
-
-Out of the results of gene knock-down screenings and preliminary experiments, we found knock-down of NPF, by using NPF RNAi and 386Y-Gal4 pan-peptidergic neuron driver, reduces the sensitivity of Or22a neurons (Fig 2-B).
-Again, as expected, knock-down of NPF by using NPF producing neuron-specific NPF-Gal4 driver, also desensitized Or22a neurons as well (Fig 2-C).
-Furthermore, prolonged exposure of the female parasitoid wasps, Leptopilina heterotoma, to the female wild-type flies significantly reduced the sensitivity of Or22a neurons (Fig 2-D), which is a consistent result with the previous report that exposing female parasitoid wasps to female fruit flies reduces NPF level in the fly brain \cite{Kacsoh_2013}.
-These results clearly demonstrate that down-regulation of NPF in the brain make the Or22a neurons desensitized.
+Next, we wondered if the sensitization signaling of NPF is transmitted through the known NPF receptor NPFR. To address this question, we measured the ab3A neuron’s sensitivity of NPFRc01896 hypomorphic mutant flies, which were utilized for the previous research \cite{Krashes_2009}. As expected, we found the sensitivity of ab3A neurons are severely reduced as well by the mutation of NPFR. This result suggest ab3A neuron-sensitizing NPF signaling is transmitted through its known receptor NPFR.
