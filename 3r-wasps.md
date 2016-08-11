@@ -2,6 +2,8 @@
 
 By using transposon-inserted mutants and neuronal Gal4 driven RNAi expressing flies, which are down-regulated for the candidate genes, we have screened and identified the genes that affect ab3A neuron’s sensitivity. Interestingly, among the identified genes, we found that peptidergic neuron-specific knock-down of NPF, which is known to be related with taste and feeding \cite{Wu_2003} \cite{Inagaki_2014}, significantly desensitized ab3A neurons (Fig 2-A). NPF producing neuron-specific knock-down of NPF desensitized ab3A neurons as well (Fig 2-B, E).
 
+Surprisingly, knock-down of NPF in the NPF producing neurons elicited specific desensitization of ab3A neurons. The quantification result for the sensitivity of all three types of large basiconic sensilla show that knock-down of NPF have no effect on neither ethyl butyrate-sensitive ab1A/B, nor methyl acetate-sensitive ab2A neurons (Fig 2-B, C, D). 
+
 To identify the genes that affect ab3A neuron’s sensitivity, we have screened the genes by using transposon-inserted mutants and neuronal Gal4 driven RNAi expressing flies.
 
 By screening transposon-inserted mutants and neuronal-gal4 driven gene knock-down strategies, we found that knock-down of NPF in peptidergic neurons reduce the sensitivity of ab3A neurons (Fig 2-A). We also confirmed this phenotype by using NPF producing neuron-specific Gal4 and NPF RNAi (Fig 2-B, E). 
