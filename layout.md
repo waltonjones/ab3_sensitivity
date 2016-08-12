@@ -8,7 +8,6 @@ The_sensitization_mechanism_for_ab3A__.md
 figures/fig-7/fig-7.png
 NPF_NPFR_signaling_actively_sensitize__.md
 figures/fig-9/fig-9.png
-figures/fig-8/fig-8.png
 4r-npfr.md
 figures/fig-5/fig-5.png
 5r-behavior.md
