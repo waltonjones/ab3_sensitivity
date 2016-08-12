@@ -5,4 +5,4 @@
 Whiskers indicate minimum and maximum values, n ≥ 6, One-way ANOVA, \*\*\* _P_ ≤ 0.001.
 (C) The sensitivity of ab3A neurons increases as female flies mature.
 Peak odor-evoked responses to ethyl butyrate (EB, 10<sup>-5</sup> v/v) in _w<sup>1118</sup>_ flies recorded 1, 3, and 7 days post-eclosion.
-_Data are presented as means ± SEM, n ≥ 6, One-way ANOVA, \* _P_ ≤ 0.05, \*\*\* _P_ ≤ 0.001._
+Data are presented as means ± SEM, n ≥ 6, One-way ANOVA, \* _P_ ≤ 0.05, \*\*\* _P_ ≤ 0.001.
