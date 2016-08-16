@@ -1,4 +1,4 @@
-##Ab3A neurons express NPFR and receive NPF signal directly
+##The ab3A neurons express NPFR and receive NPF signal directly
 
 Next we wondered what is the receptor for NPF for sensitizing Or22a neurons, and where would it be expressed.
 Neuropeptide F receptor (NPFR) is a known receptor for NPF \cite{Garczynski_2002}.
