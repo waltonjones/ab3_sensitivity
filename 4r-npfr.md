@@ -1,6 +1,9 @@
 ##The ab3A neurons express NPFR and receive NPF signal directly
 
-Next we wondered what is the receptor for NPF for sensitizing Or22a neurons, and where would it be expressed.
+Next we wondered 
+
+
+what is the receptor for NPF for sensitizing Or22a neurons, and where would it be expressed.
 Neuropeptide F receptor (NPFR) is a known receptor for NPF \cite{Garczynski_2002}.
 We first tested the flies with a piggyBac transposon-inserted mutation in NPFR locus, which had been previously utilized for the hypomorphic NPFR mutant \cite{Krashes_2009}.
 As expected, the Or22a neurons of the NPFR mutants combined with the NPFR gene-deficient chromosome showed significantly reduced sensitivity to ethyl butyrate (Fig 3-A).
