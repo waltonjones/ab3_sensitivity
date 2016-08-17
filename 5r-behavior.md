@@ -1,4 +1,4 @@
-## Specific knock-down of NPFR in the ab3A neurons disrupts fly's foraging ability for fruits with sweet-odor
+## Specific knock-down of NPFR in the ab3A neurons disrupts fly's foraging ability for fruits with a sweet-odor
 
 Finally, we tried to verify the importance of NPF-NPFR signaling for a fly’s foraging ability. One of the conventional methods which have been used for testing fly’s attraction behavior is the trap-assay (Park 2002). However, testing a behavior of the flies in group often produces confusing results because of the behavioral interferences caused by other flies, masking the effects of the tested cues (Ramdya 2014). To address this problem, we designed new assay for testing single fly's attraction behavior (Fig 4-A).
 
