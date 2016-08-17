@@ -1,6 +1,6 @@
 ##The ab3A neurons express NPFR and receive NPF signal directly
 
-Next we wondered 
+Next we tried to seek for the NPFR-expressing target cells of NPF. 
 
 
 what is the receptor for NPF for sensitizing Or22a neurons, and where would it be expressed.
