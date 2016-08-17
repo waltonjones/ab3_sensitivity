@@ -4,14 +4,6 @@ Finally, we tried to verify the importance of NPF-NPFR signaling for a fly’s f
 
 -
 
-Finally, we tested the importance of NPF-NPFR signaling for Or22a neurons in flies' foraging behavior.
-One of the conventional methods which have been used for testing flies' attraction behavior is the trap-assay \cite{Park_2002}.
-However, testing flies' behavior in group often produces confusing results, probably because of the behavioral interferences caused by other flies, masking the effects of the tested odorants .
-To address this problem, we designed new assay for single fly's attraction behavior (Fig 4-A).
-This assay is composed of the two chambers.
-A single fly is introduced into the bigger chamber with water-wet Kimwipes, and by a narrow tube, the bigger chamber is connected to the smaller chamber with diluted apple juice.
-The assays are kept in the dark room, then the number of the flies that moved into the apple juice chamber is counted and quantified.
-
 We first examined if this assay is usable for testing olfactory attraction behavior.
 After about 40 hours in the dark room, 96% of the wild-type flies moved into the apple juice chamber.
 On the other hand, less than 27% of the wild-type flies moved into the chamber with distilled water.
