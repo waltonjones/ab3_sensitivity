@@ -2,12 +2,6 @@
 
 Finally, we tried to verify the importance of NPF-NPFR signaling for a fly’s foraging ability. One of the conventional methods which have been used for testing fly’s attraction behavior is the trap-assay \cite{Park_2002}. However, testing a behavior of the flies in group often produces confusing results because of the behavioral interferences caused by other flies, masking the effects of the tested cues \cite{Ramdya_2014}. To address this problem, we have designed new assay for testing single fly's attraction behavior (Fig 6-A). As illustrated, a single fly is introduced into the “origin chamber” containing wet Kimwipes. And through a narrow tube, the fly can move into the “bait chamber” which contains an odorous bait. For a bait, we used fresh apple juice which showed very similar response profile to ethyl butyrate by fly’s antennal large basiconic ORNs (Fig 6-B). 
 
-The assay settings were kept in the dark room, then after a while, the number of the flies that moved into the apple juice-containing “bait chamber” was counted for quantification.
-
-For habituating the flies to the odor, before the experiment, we used diluted fresh apple juice so the flies could correlate the food and the apple odor which showed 
-
--
-
 We first examined if this assay is usable for testing olfactory attraction behavior.
 After about 40 hours in the dark room, 96% of the wild-type flies moved into the apple juice chamber.
 On the other hand, less than 27% of the wild-type flies moved into the chamber with distilled water.
