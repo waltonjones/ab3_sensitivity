@@ -4,7 +4,7 @@ Finally, we tried to verify the importance of NPF-NPFR signaling for a fly’s f
 
 We first examined this assay to make sure that this setting is valid for testing fly’s attraction behavior. As expected, in the dark, more than 70% of the w1118 flies moved into the “bait chamber” containing apple juice (Fig 6-C). On the other hand, less than 20% of the w1118 flies moved into the “bait chamber” when it contains distilled water. In addition, less than 30% of the Orco1 mutant flies which have no functional ORNs could locate the apple juice bait. This result demonstrate that this new assay setting is valid for testing ORN-mediated fly’s attraction to fruit odor..
 
-Next we wondered if the fly’s attraction behavior to apple juice is solely mediated by the ethyl butyrate-sensitive ab3A neurons. To address this question, we used the ab3A neuron-specific Or22a-down-regulated flies, which have desensitized ab3A neurons. Surprisingly, These flies showed loss of foraging ability in the assay (Fig 6-C).  
+Next we wondered if the fly’s attraction behavior to apple juice is solely mediated by the ethyl butyrate-sensitive ab3A neurons. To address this question, we used the ab3A neuron-specific Or22a-down-regulated flies, which have desensitized ab3A neurons. Surprisingly, These flies showed loss of foraging ability in the assay (Fig 6-C). This result suggest that a fly's attraction to fruits release ethyl butyrate is solely mediated by ab3A neurons.
 
 We first examined if this assay is usable for testing olfactory attraction behavior.
 After about 40 hours in the dark room, 96% of the wild-type flies moved into the apple juice chamber.
