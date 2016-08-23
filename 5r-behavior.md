@@ -6,10 +6,5 @@ We first examined this assay to make sure that this setting is valid for testing
 
 Next we wondered if the fly’s attraction behavior to apple juice is solely mediated by the ethyl butyrate-sensitive ab3A neurons. To address this question, we used the ab3A neuron-specific Or22a-down-regulated flies, which have desensitized ab3A neurons. Surprisingly, These flies showed loss of foraging ability in the assay (Fig 6-C). This result suggest that a fly's attraction behavior to fruits releasing ethyl butyrate is solely mediated by ab3A neurons.
 
-Finally, 
-
-Next we tested the flies that NPFR is specifically down-regulated in ORNs or in Or22a neurons.
-Surprisingly, NPFR down-regulation in ORNs by Orco-Gal4 dramatically reduced the flies' success rate of finding the apple juice (Fig 4-C).
-Furthermore, Or22a neuron-specifically down-regulation of NPFR significantly reduced the success rate as well (Fig 4-D).
-These results suggest that NPF-NPFR signaling for Or22a neurons eventually modulate the flies' behavioral attraction towards food source.
+Finally, we tested the flies with specific knock-down of NPFR in the ORNs or in the ab3A neurons. Surprisingly, knock-down of NPFR in the ORNs by Orco-Gal4 significantly reduced the fly's foraging ability (Fig 6-D). Furthermore, Or22a neuron-specific knock-down of NPFR significantly reduced the foraging ability of the flies as well. These results show that NPF-NPFR signaling for ab3A neurons is not only sensitizing their sensitivity to fruit odor but also eventually enhancing the fly's ability for finding food sources.
 
