@@ -8,10 +8,6 @@ Next we wondered if the fly’s attraction behavior to apple juice is solely med
 
 Finally, 
 
-We first examined if this assay is usable for testing olfactory attraction behavior.
-After about 40 hours in the dark room, 96% of the wild-type flies moved into the apple juice chamber.
-On the other hand, less than 27% of the wild-type flies moved into the chamber with distilled water.
-In addition, as expected, Orco1 mutant flies which have no functional ORNs could not locate the apple juice (Fig 4-B).
 Next we tested the flies that NPFR is specifically down-regulated in ORNs or in Or22a neurons.
 Surprisingly, NPFR down-regulation in ORNs by Orco-Gal4 dramatically reduced the flies' success rate of finding the apple juice (Fig 4-C).
 Furthermore, Or22a neuron-specifically down-regulation of NPFR significantly reduced the success rate as well (Fig 4-D).
