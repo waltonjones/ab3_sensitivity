@@ -1,6 +1,6 @@
 # Discussion
 
-Drosophila NPF is known to be a functional analog of NPY of the mammalian system \cite{Brown_1999}.
+Drosophila NPF is known to be a functional analog of NPY in the mammalian system \cite{Brown_1999}.
 
 
 In mammalian system, NPY production is inhibited by high level of insulin and leptin \cite{Figlewicz_2008}.
