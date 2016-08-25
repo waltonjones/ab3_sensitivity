@@ -3,7 +3,7 @@
 ## _Drosophila_ show significant modulation of peripheral sensitivity to an important food-related odor
 
 Fruit fly's olfactory sensilla, the sensory hairs covering the surface of the antennae and the maxillary palps, are classified by their morphology: basiconic, tricoid, coeloconic sensilla \cite{Shanbhag_1995}.
-Besides, according to their sizes, basiconics are named as large, thin, small basiconics.
+Besides, according to their sizes, basiconics are named as large, thin, small basiconics respectively.
 An ab3, one of the three types of the large antennal basiconic sensilla, was shown to be housing 2 different ORNs.
 And the two different ORNs generate large and small spikes respectively in the electrophysiological recording traces, according to which, the neuron generate the large spikes was named ab3A, the other one generate the small spikes, ab3B \cite{de_Bruyne_2001}.
 The ab3A neurons express Or22a olfactory receptors (ORs) which are the receptors for the fruity odors like ethyl butyrate, a volatile ester found in apples and many other fruits \cite{Dobritsa_2003} \cite{2009}.
