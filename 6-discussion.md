@@ -2,6 +2,7 @@
 
 Drosophila NPF is known to be a functional analog of mammalian NPY \cite{Brown_1999} \cite{Wu_2003}.
 
+NPFR \cite{Garczynski_2002}
 
 In mammalian system, NPY production is inhibited by high level of insulin and leptin \cite{Figlewicz_2008}.
 Although flies do not have leptin, they have several different types of insulin-like peptides (DILPs) \cite{Arquier_2008}, which may inhibit NPF production.
