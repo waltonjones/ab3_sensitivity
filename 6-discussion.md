@@ -6,7 +6,7 @@ NPFR identification \cite{Garczynski_2002}
 
 In mammalian system, NPY production is inhibited by high level of insulin and leptin \cite{Figlewicz_2008}.
 Although flies do not have leptin, they express Upd2, which is known to be a functional analog of mammalian leptin \cite{Rajan_2012}.
-
+Flies also express eight different types of insulin-like peptides and one known insulin receptor \cite{Fernandez_Almonacid_1987}. 
 
 
 they have several different types of insulin-like peptides (DILPs) \cite{Arquier_2008}, which may inhibit NPF production.
