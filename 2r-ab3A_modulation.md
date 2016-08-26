@@ -4,7 +4,7 @@
 
 Fruit fly's olfactory sensilla, the sensory hairs covering the surface of the antennae and the maxillary palps, are classified by their morphology: basiconic, tricoid, coeloconic sensilla \cite{Shanbhag_1995}.
 Besides, according to their sizes, basiconics are named as large, thin, small basiconics respectively.
-Among the large basiconics which is composed of antennal basiconics (ab) type 1 to 3, an ab3 sensilla was shown to be housing 2 different ORNs (cite).
+Among the large basiconics which is composed of antennal basiconics (ab) type 1 to 3, an ab3 sensilla was shown to be housing 2 different ORNs \cite{de_Bruyne_2001}.
 And thosee two different ORNs generate large and small spikes respectively in the electrophysiological recording traces, according to which, the neuron generate the large spikes was named ab3A, the other one generate the small spikes, ab3B \cite{de_Bruyne_2001}.
 The ab3A neurons express Or22a olfactory receptors (ORs) which are the receptors for the fruity odors like ethyl butyrate, a volatile ester found in apples and many other fruits \cite{Dobritsa_2003} \cite{2009}.
 Or22a proteins are assembled with OR co-receptors (Orco) to form non-selective cation channels and generate action potentials by odor ligand binding \cite{Benton_2006} \cite{Sato_2008}.
