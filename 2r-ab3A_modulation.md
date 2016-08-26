@@ -10,7 +10,7 @@ The ab3A neurons express Or22a olfactory receptors (ORs) which are the receptors
 OR22a proteins are assembled with OR co-receptors (ORco) to form non-selective cation channels and generate action potentials by odor ligand binding \cite{Benton_2006} \cite{Sato_2008}.
 
 By using the electrophysiological recordings (SSR), we confirmed that fruit fly’s ab3A neurons are robustly activated by fresh apple odor and its major component, ethyl butyrate (Fig. 1-A, B). 
-Since an organism's sensitivity to food odor is highly dependent on its internal needs, we wondered if the sensitivity of ab3A neurons are modulatory.
+Since an organism's sensitivity to food odor is highly dependent on its internal conditions, we wondered if the sensitivity of ab3A neurons are modulatory.
 To verify this question, we measured the sensitivity of ab3A neurons to ethyl butyrate after rearing the flies under various conditions like calorie deprivation, nutrition-selective diet, high and low temperature, circadian rhythm, maturation status and etc. (Data not shown). 
 Interestingly, we found that ab3A neuron’s sensitivity is not steady throughout the adult life but is able to be modulated somehow. 
-Quantified results for the electrophysiological recordings, ab3A neuron are actively sensitized during the early maturation period for about 3 days after eclosion (Fig. 1-C). 
+The age dependent change of sensitivity to ethyl butyrate show that ab3A neuron are actively sensitized during the early maturation period for about 3 days after eclosion (Fig. 1-C). 
