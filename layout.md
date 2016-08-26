@@ -5,6 +5,7 @@ figures/fig-1/fig-1.png
 3r-wasps.md
 figures/fig-2/fig-2.png
 The_sensitization_mechanism_for_ab3A__.md
+figures/fig2/fig2.png
 figures/fig1/fig1.png
 NPF_NPFR_signaling_actively_sensitize__.md
 figures/fig-9/fig-9.png
