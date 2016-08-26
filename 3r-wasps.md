@@ -7,4 +7,7 @@ By the way, knock-down of NPF in the NPF producing neurons elicited specific des
 The quantification result for the sensitivity of all three types of large basiconic sensilla show that knock-down of NPF have no effect on neither ethyl butyrate-sensitive ab1A/B, nor methyl acetate-sensitive ab2A neurons (Fig 2-B, C, D). 
 This result suggest that NPF mediate relatively specific sensitization for ab3A neurons.
 
-Next, we wondered if the sensitization signaling of NPF is transmitted through the known NPF receptor, NPFR \cite{Garczynski_2002}. To address this question, we measured the ab3A neuron’s sensitivity of NPFRc01896 hypomorphic mutant flies, which were utilized for the previous research \cite{Krashes_2009}. As expected, we found that the sensitivity of ab3A neurons are severely reduced as well by the mutation of NPFR. This result suggest ab3A neuron-sensitizing NPF signaling is transmitted through its known receptor, NPFR.
+Next, we wondered if the sensitization signal of NPF is transmitted through NPFR, the known NPF receptor. \cite{Garczynski_2002}. 
+To address this question, we measured the ab3A neuron’s sensitivity of NPFRc01896 hypomorphic mutant flies, which were utilized for the previous research \cite{Krashes_2009}. 
+As expected, the sensitivity of ab3A neurons was severely reduced as well by the mutation of NPFR. 
+This result suggest that the sensitization signal for ab3A neurons is transmitted through NPFR.
