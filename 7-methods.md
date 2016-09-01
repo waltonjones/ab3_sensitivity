@@ -15,6 +15,9 @@ After connecting this odor cartridge to the stimulus controller, we used a pedal
 We calculated peak odor-evoked firing rates by counting the spikes occurring in the most action potential-rich 200 ms region within 0.5 s of odor stimulus initiation.
 After converting this to spikes per second, we subtracted the number of spontaneous action potentials that occurred within a 1 s window before odor delivery.
 
+### qPCR
+(...)
+
 ### Immunohistochemistry
 Immunostaining on the whole-mount brains was performed as previously described \cite{Vosshall_2000}.
 We used the rabbit polyclonal anti-NPF antibody (RB-19-0001) from RayBiotech (USA) at a concentration of 50 µg/ml.
