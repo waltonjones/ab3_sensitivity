@@ -16,9 +16,12 @@ We calculated peak odor-evoked firing rates by counting the spikes occurring in 
 After converting this to spikes per second, we subtracted the number of spontaneous action potentials that occurred within a 1 s window before odor delivery.
 
 ### qPCR
-(...)
+...
 
-### Immunohistochemistry
+### Immunohistochemistry for fly antennae
+...
+
+### Immunohistochemistry for fly brains
 Immunostaining on the whole-mount brains was performed as previously described \cite{Vosshall_2000}.
 We used the rabbit polyclonal anti-NPF antibody (RB-19-0001) from RayBiotech (USA) at a concentration of 50 µg/ml.
 We used the neuropil marker nc82 (AB_2314866) from the DSHB (USA) at a concentration of 7 µg/ml.
