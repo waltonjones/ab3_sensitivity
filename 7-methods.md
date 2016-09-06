@@ -20,7 +20,7 @@ After converting this to spikes per second, we subtracted the number of spontane
 ...
 
 ### Immunohistochemistry for the fly antennae
-...
+Immunostainings were carried out as describe in \cite{Dobritsa_2003}. 
 
 ### Immunohistochemistry for the fly brains
 Immunostaining on the whole-mount brains was performed as previously described \cite{Vosshall_2000}.
