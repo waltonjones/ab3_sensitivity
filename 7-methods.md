@@ -21,6 +21,7 @@ Flies were aged for 7-14 days before recordings except for the early-age depende
 
 
 ### qPCR
+The cDNA for Or22a qPCR was prepared by extracting total RNA from Drosophila heads and cDNA synthesis by using oligo(dT)20 primer.
 ...
 
 
