@@ -16,6 +16,8 @@ After connecting this odor cartridge to the stimulus controller, we used a pedal
 We calculated peak odor-evoked firing rates by counting the spikes occurring in the most action potential-rich 200 ms region within 0.5 s of odor stimulus initiation.
 After converting this to spikes per second, we subtracted the number of spontaneous action potentials that occurred within a 1 s window before odor delivery.
 
+All flies were aged for 7-14 days before recordings except for the early-age dependent experiments. 
+
 ### qPCR
 ...
 
