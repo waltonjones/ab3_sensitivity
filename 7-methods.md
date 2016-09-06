@@ -21,7 +21,7 @@ Flies were aged for 7-14 days before recordings except for the early-age depende
 
 
 ### qPCR
-The cDNA for Or22a qPCR was prepared by extracting total RNA from Drosophila heads and cDNA synthesis by using oligo(dT)20 primer. The specific primers for Or22a qPCR were designed as follows (CGACGAACAGTTTTACATCTC, AATGCGTCAACATAGTCCAA) to produce 246 bp products. The results for Or22a expression level were normalized by the expression level of RpL32 ribosomal RNA.
+The cDNA for Or22a qPCR was prepared by extracting total RNA from Drosophila heads and cDNA synthesis by using oligo(dT)20 primer. The specific primers for Or22a qPCR were designed as follows (CGACGAACAGTTTTACATCTC, AATGCGTCAACATAGTCCAA) to produce 246 bp products. The results for Or22a expression level were normalized by the expression level of RpL32 Drosophila ribosomal RNA.
 
 
 ### Immunohistochemistry for the fly antennae
