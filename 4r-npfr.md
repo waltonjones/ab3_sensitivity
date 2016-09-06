@@ -4,4 +4,4 @@ Next we tried to seek for the NPFR-expressing target cells of NPF. Since the fir
 Specific NPFR rescue in the ab3A neurons, NPFR-RD type transcript in this case, dramatically restored the sensitivity of ab3A neurons in the NPFR mutant flies (Fig 5-C, D).
 On the other hand, expressing NPFR-RB type transcript could not restore the sensitivity of ab3A neurons in the mutant flies (Fig 5-D). 
 This result demonstrate that NPFR-RD type transcript is expressed in the ab3A neurons to receive NPF signal directly, mediating the sensitizing mechanism for the ab3A neurons.
-And the desensitization phenotype that the NPFR mutant show is not caused by the effect of the developmental morphogenesis of the ab3A neurons.
+And the desensitization phenotype that the NPFR mutant show is not caused by the effect of developmental morphogenesis of the ab3A neurons.
