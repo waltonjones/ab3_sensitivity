@@ -2,4 +2,4 @@
 
 (A, B) Quantified odor-evoked activities of Or22a-expressing ab3A neurons responding to 10-6, 10-5 (v/v) ethyl butyrate for the NPFR-downregulated flies by ORN-specific Orco-Gal4 and ab3A neuron-specific Or22a-Gal4 drivers. _Data are presented as means ± 95% confidence interval, n≥6, two-way ANOVA, \*\*\*P ≤ 0.001._
 (C) The electrophysiological recording traces of ethyl butyrate(10-6 v/v)-evoked ab3A neurons for the ab3A-specifically NPFR rescued fly and its genetic controls.
-(D) The quantified results of the electrophysiological recordings for the NPFR rescue experiments for the 7-11 day-old flies of mixed sexes. Expressing NPFR-RD transcript restore the sensitivity of the ab3A neurons.
+(D) The quantified results of the electrophysiological recordings for the NPFR rescue experiments for the 7-11 day-old flies of mixed sexes. Expressing NPFR-RD transcript restore the sensitivity of the ab3A neurons. _Data are presented as means ± 95% confidence interval, n≥12, one-way ANOVA, \*\*\*P ≤ 0.001._
