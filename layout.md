@@ -15,4 +15,3 @@ figures/fig-6/fig-6.png
 6-discussion.md
 7-methods.md
 8-supplementary.md
-figures/fig-S1/fig-S1.png
