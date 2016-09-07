@@ -17,3 +17,6 @@ Drosophila 3rd instar larvae normally show sugar aversion behavior before pupati
 However, when NPF is over-expressed, their aversive behavior to sugar is suppressed \cite{Wu_2003}.
 In fact, high level of NPF stimulate dopamine production, in turn, lead to enhanced sugar sensitivity of Gr5a neurons \cite{Inagaki_2014}.
 Taken together, NPF-NPFR signaling seems to be used for sensitizing multiple types of sensory neurons related to searching food when needed.
+
+
+\cite{Lingo_2007}
