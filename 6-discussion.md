@@ -19,6 +19,9 @@ In fact, high level of NPF stimulate dopamine production, in turn, lead to enhan
 Taken together, NPF-NPFR signaling seems to be used for sensitizing multiple types of sensory neurons related to searching food when needed.
 
 
+\cite{Inagaki_2014}
+
+
 \cite{Lingo_2007}
 \cite{Wu_2003}
 \cite{Wu_2005}
