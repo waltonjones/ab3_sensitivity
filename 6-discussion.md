@@ -21,9 +21,10 @@ Taken together, NPF-NPFR signaling seems to be used for sensitizing multiple typ
 
 \cite{Inagaki_2014}
 
-
+\cite{Beck_2001}
 \cite{Lingo_2007}
 \cite{Wu_2003}
 \cite{Wu_2005}
 
-\cite{Beck_2001}
+\cite{Barb_2006}
+\cite{Rajan_2012}
