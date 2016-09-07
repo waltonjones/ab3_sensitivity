@@ -1,5 +1,18 @@
 # Discussion
 
+Our study demonstrate a previously unknown NPF-NPFR mediated olfactory mechanism which help fly’s foraging ability for fruits that are natural sugar sources. Fruit flies are highly attracted to sugar which is contained in various fruits in nature. Although the various kinds of sugars are not volatile, flies can detect those fruits at a distance because of fruit aroma that is produced and diffused by the fruits. Fruit flies use these fruity odors to navigate and locate the fruits which are necessary for them to refuel their body and survive. Whether the correlation between fruit aroma and sucrose source in the fly’s nervous system is fully encoded in their genome or if it is partially obtained by learning is unknown yet.
+
+Although a fly’s olfactory receptor neurons are ordinarily very sensitive, they must be even more sensitized depending on their internal needs. Because, the area of activity of a fly is wide and a sugar-containing food is relatively rare in the natural environment.
+
+When a fly is hungry, the NPF level in the fly brain is increased, in turn, sugar-sensitive Gr5a neurons are sensitized via dopamine signaling (Inagaki 2014). Taking together with our study that when NPF-NPFR signaling is activated, it also sensitize the olfactory sensitivity for the major fruit odor ethyl butyrate, NPF seems to be a neuropeptide molecule that is masterminding sugar-related peripheral sensitivity. 
+
+In addition, although the mature peptide sequence of Drosophila NPF and human NPY are poorly identical (19.4%), dNPF and mammalian NPY are known to mediate similar physiological functions for feeding and metabolism (Beck 2001), (Lingo 2007), Wu 2003, Wu 2005). Furthermore, NPY producing cells are inhibited by high level of leptin which are quite similar to the functionally analogous Drosophila Upd2 (Elmquist 1999) (Barb 2006) (Rajan 2012). Besides, NPY gene expression is inhibited by mammalian insulin (Sato 2005) and there is also insulin like peptides in Drosophila (Dilps). Taken together, our results suggest that NPY signaling may also be involved in sensitizing human olfactory sensitivity for sugar, eventually help stimulating appetite and eating behavior.
+
+
+
+
+
+--------
 Drosophila NPF is known to be a functional analog of mammalian NPY \cite{Brown_1999} \cite{Wu_2003}.
 In mammalian system, NPY production is negatively regulated by high level of insulin and leptin \cite{Figlewicz_2008}.
 Although flies do not have leptin, they express Upd2, which is shown to be a functional analog of mammalian leptin \cite{Rajan_2012}.
