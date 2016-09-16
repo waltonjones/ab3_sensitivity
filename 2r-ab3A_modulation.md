@@ -2,14 +2,13 @@
 
 ## _Drosophila_ show significant modulation of peripheral sensitivity to a food-related odor
 
-Fruit fly's olfactory sensilla, the sensory hairs covering the surface of the antennae and the maxillary palps, are classified by their morphology: basiconic, tricoid, coeloconic sensilla \cite{Shanbhag_1995}.
-Besides, according to their sizes, basiconics are named as large, thin, small basiconics respectively.
-Among the large basiconics which is composed of antennal basiconics (ab) type 1 to 3, an ab3 sensilla was shown to be housing 2 different ORNs \cite{de_Bruyne_2001}.
-And thosee two different ORNs generate large and small spikes respectively in the electrophysiological recording traces, according to which, the neuron generate the large spikes was named ab3A, the other one generate the small spikes, ab3B \cite{de_Bruyne_2001}.
-The ab3A neurons express Or22a olfactory receptors (ORs) which are the receptors for the fruity odors like ethyl butyrate, a volatile ester found in apples and many other fruits \cite{Dobritsa_2003} \cite{2009}.
-OR22a proteins are assembled with OR co-receptors (ORco) to form non-selective cation channels and generate action potentials by odor ligand binding \cite{Benton_2006} \cite{Sato_2008}.
+The olfactory sensilla of _Drosophile_ were originally classified by morphology.
+The largest are the club-shaped basiconic sensilla, which are further subdivided by location, size, and odorant receptor expression into 13 subclasses {++ cite Couto2005 ++}.
+Among the large antennal basiconics (ab), each sensillum of the ab3 class houses two OSNs designated ab3A and ab3B on the basis of spike amplitude, with ab3A giving the larger spikes \cite{de_Bruyne_2001}.
+These ab3A neurons express the olfactory co-receptor Orco along with the odorant-specific odorant receptor Or22a {++ cite Larsson 2004 ++} \cite{Dobritsa_2003}.
+OR22a is activated by several fruity-smelling esters including ethyl butyrate, a volatile abundant in apples and many other fruits \cite{2009}.
 
-By using the electrophysiological recordings (SSR), we confirmed that fruit fly's ab3A neurons are robustly activated by fresh apple odor and its major component, ethyl butyrate (Fig. 1-A, B). 
+Using the single sensillum electrophysiological recording technique (SSR), we confirmed that ab3A neurons are robustly activated by both fresh apple odor and by ethyl butyrate, one of its major components (Fig. 1A-B). 
 Since an organism's sensitivity to food odor is highly dependent on its internal conditions, we wondered if the sensitivity of ab3A neurons are modulatory.
 To verify this question, we measured the sensitivity of ab3A neurons to ethyl butyrate after rearing the flies under various conditions like calorie deprivation, nutrition-selective diet, high and low temperature, circadian rhythm, maturation status and etc. (Data not shown). 
 Interestingly, we found that ab3A neuron's sensitivity is not steady throughout the adult life but is able to be modulated somehow. 
