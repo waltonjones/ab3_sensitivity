@@ -1,6 +1,6 @@
 # Results
 
-## _Drosophila_ show significant modulation of peripheral sensitivity to an important food-related odor
+## _Drosophila_ show significant modulation of peripheral sensitivity to a food-related odor
 
 Fruit fly's olfactory sensilla, the sensory hairs covering the surface of the antennae and the maxillary palps, are classified by their morphology: basiconic, tricoid, coeloconic sensilla \cite{Shanbhag_1995}.
 Besides, according to their sizes, basiconics are named as large, thin, small basiconics respectively.
@@ -9,8 +9,8 @@ And thosee two different ORNs generate large and small spikes respectively in th
 The ab3A neurons express Or22a olfactory receptors (ORs) which are the receptors for the fruity odors like ethyl butyrate, a volatile ester found in apples and many other fruits \cite{Dobritsa_2003} \cite{2009}.
 OR22a proteins are assembled with OR co-receptors (ORco) to form non-selective cation channels and generate action potentials by odor ligand binding \cite{Benton_2006} \cite{Sato_2008}.
 
-By using the electrophysiological recordings (SSR), we confirmed that fruit fly’s ab3A neurons are robustly activated by fresh apple odor and its major component, ethyl butyrate (Fig. 1-A, B). 
+By using the electrophysiological recordings (SSR), we confirmed that fruit fly's ab3A neurons are robustly activated by fresh apple odor and its major component, ethyl butyrate (Fig. 1-A, B). 
 Since an organism's sensitivity to food odor is highly dependent on its internal conditions, we wondered if the sensitivity of ab3A neurons are modulatory.
 To verify this question, we measured the sensitivity of ab3A neurons to ethyl butyrate after rearing the flies under various conditions like calorie deprivation, nutrition-selective diet, high and low temperature, circadian rhythm, maturation status and etc. (Data not shown). 
-Interestingly, we found that ab3A neuron’s sensitivity is not steady throughout the adult life but is able to be modulated somehow. 
+Interestingly, we found that ab3A neuron's sensitivity is not steady throughout the adult life but is able to be modulated somehow. 
 The age dependent change of sensitivity to ethyl butyrate show that ab3A neuron are actively sensitized during the early maturation period for about 3 days after eclosion (Fig. 1-C). 
