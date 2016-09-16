@@ -18,4 +18,4 @@ Here, we investigate another mechanism underlying the sensitivity modulation of 
 Specifically, we identify a role for neuropeptide F (NPF) in the sensitivity modulation of a specific population of OSNs in _Drosophila_ that detect fruity-smelling esters.
 We show NPF neuron-specific knock-down of NPF reduces the sensitivity of ab3A neurons, which express OR22a, to ethyl butyrate, a volatile ester found in apples and other fruits.
 We also show OR22a neuron-specific knock-down of NPFR produces a similar reduction in sensitivity and disrupts the ability of the flies to locate food.
-Thus, our results demonstrate that, in addition to regulating appetite and food-seeking behavior, the NPF-NPFR signaling axis  also regulates peripheral sensitivity to food odors.
+Thus, our results demonstrate that, rather than affecting pre-synaptic gain like the similarly named sNPF-sNPFR signaling axis, NPF and NPFR seem to regulate the peripheral sensitivity to food odors at the level of odorant detection.
