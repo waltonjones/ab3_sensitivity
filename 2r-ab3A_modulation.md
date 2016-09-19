@@ -3,7 +3,7 @@
 ## _Drosophila_ show significant modulation of peripheral sensitivity to a food-related odor
 
 The olfactory sensilla of _Drosophile_ were first classified by morphology into basiconic, trichoid, and coeloconic shapes \cite{Shanbhag_1995}.
-The largest are the club-shaped basiconic sensilla, which are further subdivided by location, size, and odorant receptor expression into 13 subclasses {++ cite Couto2005 ++}.
+The largest are the club-shaped basiconic sensilla, which are further subdivided by location, size, and odorant receptor expression into 13 subclasses \cite{Couto_2005}.
 Among the large antennal basiconics (ab), each sensillum of the ab3 class houses two OSNs designated ab3A and ab3B on the basis of spike amplitude, with ab3A giving the larger spikes \cite{de_Bruyne_2001}.
 These ab3A neurons express the olfactory co-receptor Orco along with the odorant-specific odorant receptor Or22a {++ cite Larsson 2004 ++} \cite{Dobritsa_2003}.
 OR22a is activated by several fruity-smelling esters including ethyl butyrate, a volatile abundant in apples and many other fruits \cite{2009}.
