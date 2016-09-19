@@ -6,7 +6,7 @@ Similarly, blood-feeding insects like the malaria mosquito _Anopheles gambiae_ w
 The genetic model organism _Drosophila melanogaster_ has two paired olfactory organs---the antennae and maxillary palps---that are covered in porous hair-like projections called sensilla.
 These sensilla, which are filled with sensory lymph, house the dendrites of one to four olfactory sensory neurons (OSNs).
 Odor molecules diffuse through pores in the surface of the olfactory sensilla, dissolve in the sensory lymph, and bind odorant receptors (ORs) concentrated in the membranes of the OSN dendrites.
-Since insect ORs are ligand-gated ion channels, this odor binding gates a non-selective cation current that triggers action potentials in the OSNs {++ cite Sato and Wicher papers ++}.
+Since insect ORs are ligand-gated ion channels, this odor binding gates a non-selective cation current that triggers action potentials in the OSNs \cite{Sato_2008} \cite{Wicher_2008}.
 These odor-evoked spikes pass up the OSN axons bundled into the antennal nerve to the antennal lobe for processing before the olfactory information they encode is sent on to higher level processing centers like the mushroom body and lateral horn.
 
 Insect olfactory systems detect thousands of environmental chemicals at varying concentration thresholds for directing appropriate behavioral responses.
