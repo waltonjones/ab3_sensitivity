@@ -3,6 +3,7 @@ abstract.md
 1r-ab3A_modulation.md
 figures/fig-1/fig-1.png
 2r-npf_npfr_electrophys.md
+figures/fig12/fig12.png
 figures/fig-2/fig-2.png
 3r-npf_npfr_during_maturation.md
 figures/fig11/fig11.png
