@@ -9,5 +9,5 @@ This result suggest that NPF mediate relatively specific sensitization for ab3A 
 
 Next, we wondered if the sensitization signal of NPF is transmitted through NPFR, the known NPF receptor. \cite{Garczynski_2002}. 
 To address this question, we measured the ab3A neuron's sensitivity of NPFRc01896 hypomorphic mutant flies, which were utilized for the previous research \cite{Krashes_2009}. 
-As expected, the sensitivity of ab3A neurons was severely reduced as well by the mutation of NPFR. 
+As expected, the sensitivity of ab3A neurons was severely reduced as well by the mutation of NPFR (Fig 2-F). 
 This result suggest that the sensitization signal for ab3A neurons is transmitted through NPFR.
