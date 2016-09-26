@@ -1,11 +1,12 @@
-## NPF-NPFR signaling underlies the sensitization mechanism in ab3A sensitivity
+## NPF-NPFR signaling sensitizes ab3A neurons
 
-In previous years, we have identified the genes that affect ab3A neuron's sensitivity by using transposon-inserted mutants and neuronal Gal4 driven RNAi expressing flies. 
-Interestingly, we found that peptidergic neuron-specific _386Y-Gal4_ driven knock-down of NPF, which is known to be related with taste and feeding \cite{Wu_2003} \cite{Inagaki_2014}, significantly desensitized ab3A neurons (Fig 2-A). 
-Consistently, NPF producing neuron-specific knock-down of NPF desensitized ab3A neurons as well without affecting their spontaneous activities (Fig 2-B, C), in which NPF was almost completely removed by the RNAi (Fig S-1).
-By the way, knock-down of NPF in the NPF producing neurons elicited specific desensitization of ab3A neurons. 
-The quantification result for the sensitivity of all three types of large basiconic sensilla show that knock-down of NPF have no effect on neither ethyl butyrate-sensitive ab1A/B, nor methyl acetate-sensitive ab2A neurons (Fig 2-D, E). 
-This result suggest that NPF mediate relatively specific sensitization for ab3A neurons.
+In an effort to clarify the mechanism underlying this ab3A modulation, we crossed _386Y-Gal4_, a GAL4 enhancer trap expressed in many peptidergic neurons in the adult fly brain, to several neuropeptide-specific RNAi lines.
+We found ab3A neurons depleted of Neuropeptide F (NPF) are significantly less sensitive to EB than heterozygous controls (Fig 2A).
+In _Drosophila_, NPF has been implicated in several physiological phenomena including appetite regulation and the modulation of sugar-sensitive gustatory responses \cite{Wu_2003} \cite{Inagaki_2014}.
+Consistent with this result, limiting the knock-down of NPF to NPFergic neurons using _NPF-GAL4_, produces an even larger reduction in ab3A sensitivity to EB (Fig 2B). 
+This reduction in peripheral olfactory sensitivity is specific to odor-evoked activity, as the spontaneous activity of ab3A neurons is unaffected by NPF knock-down (Fig. 2C).
+It is also specific to the ab3A neuronal subclass.
+The sensitivity of both ab1A and ab2A to EB and methyl acetate (MA), respectively, are unaffected by NPF knock-down (Fig. 2D, E).
 
 Next, we asked whether the sensitization signal of NPF is transmitted through NPFR, the known NPF receptor. \cite{Garczynski_2002}. 
 To address this question, we measured the ab3A neuron's sensitivity of NPFRc01896 hypomorphic mutant flies, which were utilized for the previous research \cite{Krashes_2009}. 
