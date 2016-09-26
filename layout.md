@@ -6,7 +6,6 @@ figures/fig-1/fig-1.png
 figures/fig-2/fig-2.png
 3r-npf_npfr_during_maturation.md
 figures/fig11/fig11.png
-figures/fig-3/fig-3.png
 4r-22a_neuron_rescue.md
 figures/fig-4/fig-4.png
 5r-behavior.md
