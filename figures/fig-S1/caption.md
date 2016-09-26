@@ -1,2 +1,2 @@
-NPF immunostaining (green) for the NPF-downregulated _NPF-G4>NPF-IR_ flies show absence of NPF in the brains.
+**Figure S1.** NPF immunostaining (green) for the NPF-downregulated _NPF-G4>NPF-IR_ flies show absence of NPF in the brains.
 Nc82 staining colored in purple represent synaptic ganglia in the fly brains.
