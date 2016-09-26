@@ -8,7 +8,7 @@ This reduction in peripheral olfactory sensitivity is specific to odor-evoked ac
 It is also specific to the ab3A neuronal subclass.
 The sensitivity of both ab1A and ab2A to EB and methyl acetate (MA), respectively, are unaffected by NPF knock-down (Fig. 2D, E).
 
-Next, we wondered if the sensitization signal of NPF is transmitted through NPFR, the known NPF receptor. \cite{Garczynski_2002}. 
+Next, we asked whether the sensitization signal of NPF is transmitted through NPFR, the known NPF receptor. \cite{Garczynski_2002}. 
 To address this question, we measured the ab3A neuron's sensitivity of NPFRc01896 hypomorphic mutant flies, which were utilized for the previous research \cite{Krashes_2009}. 
 As expected, the sensitivity of ab3A neurons was severely reduced as well by the mutation of NPFR. 
 This result suggest that the sensitization signal for ab3A neurons is transmitted through NPFR.
