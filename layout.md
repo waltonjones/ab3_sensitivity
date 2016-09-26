@@ -9,7 +9,6 @@ figures/fig-3/fig-3.png
 4r-22a_neuron_rescue.md
 figures/fig-4/fig-4.png
 5r-behavior.md
-figures/fig4/fig4.png
 The_sensitization_mechanism_for_ab3A__.md
 figures/fig-5/fig-5.png
 6r-mechanism.md
