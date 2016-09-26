@@ -14,3 +14,4 @@ figures/fig8/fig8.png
 figures/fig-6/fig-6.png
 6-discussion.md
 7-methods.md
+figures/figS1/figS1.png
