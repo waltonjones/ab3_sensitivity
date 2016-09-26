@@ -3,6 +3,7 @@
 2r-ab3A_modulation.md
 figures/fig-1/fig-1.png
 3r-wasps.md
+figures/fig9/fig9.png
 figures/fig-2/fig-2.png
 The_sensitization_mechanism_for_ab3A__.md
 figures/fig4/fig4.png
