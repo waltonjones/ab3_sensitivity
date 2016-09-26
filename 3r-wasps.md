@@ -4,7 +4,7 @@ In previous years, we have identified the genes that affect ab3A neuron's sensit
 Interestingly, we found that peptidergic neuron-specific _386Y-Gal4_ driven knock-down of NPF, which is known to be related with taste and feeding \cite{Wu_2003} \cite{Inagaki_2014}, significantly desensitized ab3A neurons (Fig 2-A). 
 Consistently, NPF producing neuron-specific knock-down of NPF desensitized ab3A neurons as well without affecting their spontaneous activities (Fig 2-B, C).
 By the way, knock-down of NPF in the NPF producing neurons elicited specific desensitization of ab3A neurons. 
-The quantification result for the sensitivity of all three types of large basiconic sensilla show that knock-down of NPF have no effect on neither ethyl butyrate-sensitive ab1A/B, nor methyl acetate-sensitive ab2A neurons (Fig 2-B, C, D). 
+The quantification result for the sensitivity of all three types of large basiconic sensilla show that knock-down of NPF have no effect on neither ethyl butyrate-sensitive ab1A/B, nor methyl acetate-sensitive ab2A neurons (Fig 2-D, E). 
 This result suggest that NPF mediate relatively specific sensitization for ab3A neurons.
 
 Next, we wondered if the sensitization signal of NPF is transmitted through NPFR, the known NPF receptor. \cite{Garczynski_2002}. 
