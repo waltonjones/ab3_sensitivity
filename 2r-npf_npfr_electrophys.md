@@ -11,4 +11,4 @@ The sensitivity of both ab1A and ab2A to EB and methyl acetate (MA), respectivel
 Next, because NPF acts via the G protein-coupled NPF Receptor (NPFR) \cite{Garczynski_2002}, we asked whether loss of NPFR also affects the sensitivity of ab3A neurons to EB.
 Indeed, the ab3A neurons of flies carrying homozygous piggyBAC element insertions in the _NPFR_ locus (_NPFR^c01896^_) show significantly lower sensitivity to EB than those of the control _w^1118^_ genetic background (Fig. 2F).
 Although Krashes et al. verified _NPFR^c01896^_ as an NPFR hypomorph \cite{Krashes_2009}, for further evidence of NPFR's involvement, we combined _NPFR^c01896^_ with a chromosomal deficiency covering the _NPFR_ locus (_NPFR^Def^_).
-As espected, transheterozygous loss of NPFR (_NPFR^c01896^/NPFR^Def^_) produces the same dramatic reduction in ab3A sensitivity to EB.
+As espected, transheterozygous loss of NPFR (_NPFR^c01896^/NPFR^Def^_) produces the same dramatic reduction in ab3A sensitivity to EB compared to the corresponding heterozygous controls (Fig. 2F).
