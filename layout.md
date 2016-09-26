@@ -11,6 +11,7 @@ figures/fig-4/fig-4.png
 5r-behavior.md
 figures/fig9/fig9.png
 The_sensitization_mechanism_for_ab3A__.md
+figures/fig10/fig10.png
 figures/fig-5/fig-5.png
 6r-mechanism.md
 7-discussion.md
