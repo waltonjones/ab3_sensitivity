@@ -12,7 +12,6 @@ figures/fig-4/fig-4.png
 figures/fig5/fig5.png
 figures/fig-5/fig-5.png
 6r-mechanism.md
-figures/fig-6/fig-6.png
 7-discussion.md
 8-methods.md
 figures/fig-S1/fig-S1.png
