@@ -1,10 +1,10 @@
 abstract.md
 0-intro.md
-1r-ab3A_modulation.md
+1r-modulation.md
 figures/fig-1/fig-1.png
-2r-npf_electrophys.md
+2r-electrophys.md
 figures/fig-2/fig-2.png
-3r-npf_maturation.md
+3r-maturation.md
 figures/fig-3/fig-3.png
 4r-rescue.md
 figures/fig-4/fig-4.png
