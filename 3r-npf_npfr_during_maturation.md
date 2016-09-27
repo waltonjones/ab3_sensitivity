@@ -1,5 +1,15 @@
 ## NPF-NPFR signaling sensitizes ab3A neurons as adult females mature
 
+In early maturation period after eclosion, a male and a female show significantly different rates of sensitization in ab3A neurons (Fig. 1-C). We wondered if this sexual dimorphism is driven by different level of NPF signal. As expected, NPF immunostaining results showed that significantly different level of NPF in the brains between males and females (Fig. 3-A, B). 
+In addition, 
+
+NPF-NPFR signaling
+
+
+
+
+
+
 As mentioned earlier, Or22a-expressing ab3A neurons are actively sensitized during the early maturation period for about three days.
 Male and female flies show sexually dimorphic difference in ab3A neuron's sensitivity on the first day after eclosion, but eventually both are fully sensitized in three days (Fig 4A).
 However, both male and female flies with NPFR mutation, in which NPF-NPFR signaling is blocked, show failure in sensitization for ab3A neurons (Fig 4A).
