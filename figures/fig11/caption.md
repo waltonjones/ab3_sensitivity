@@ -1,6 +1,6 @@
 **Figure 3. Sexual dimorphic level of NPF production elicit sensitization of ab3A neurons with different rates between males and females**
 
-(A) The immunostaining for NPF by using NPF antibody for a male and a female one day post-eclosion. 
+(A) The immunostaining for NPF by using NPF antibody for a male and a female one day post-eclosion. The images are showing the median NPF levels from the data of both sexes. 
 (B) The quantification of stained NPF clearly shows the higher level of NPF in the male fly’s brain explaining the sexually dimorphic ab3A sensitivity during the early maturation period after eclosion.
 _Whiskers indicate minimum and maximum values, n≥6, t-test, **P ≤ 0.01._
 (C) The increase of ab3A sensitivity during the early maturation period cannot be accomplished without NPF-NPFR signaling. 
