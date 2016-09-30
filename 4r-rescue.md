@@ -1,6 +1,6 @@
 ##The ab3A neurons express NPFR and receive NPF signal directly mediating the sensitizaiton of ab3A neurons
 
-Next we tried to seek for the NPFR-expressing target cells of NPF. Since the first candidate target of NPF that we thought of was some sub-population of OSNs, by using UAS-NPFR RNAi flies, we knocked-down NPFR in the whole OSNs. Surprisingly, NPFR-downregulated flies in the whole OSNs showed significantly reduced sensitivity of ab3A neurons (Fig 5-A). Furthermore, knock-down of NPFR in the ab3A neurons specifically, by Or22a-Gal4, significantly desensitized the neurons as well (Fig 5-B). 
+Next we tried to seek for the NPFR-expressing target cells of NPF. Since the first candidate target of NPF that we thought of was some sub-population of ORNs, by using UAS-NPFR RNAi flies, we knocked-down NPFR in the whole ORNs. Surprisingly, NPFR-downregulated flies in the pan-ORN showed significantly reduced sensitivity of ab3A neurons (Fig 5-A). Furthermore, knock-down of NPFR in the ab3A neurons specifically, by Or22a-Gal4, significantly desensitized the neurons as well (Fig 5-B). 
 Specific NPFR rescue in the ab3A neurons, NPFR-RD type transcript in this case, dramatically restored the sensitivity of ab3A neurons in the NPFR mutant flies (Fig 5-C, D).
 On the other hand, expressing NPFR-RB type transcript could not restore the sensitivity of ab3A neurons in the mutant flies (Fig 5-D). 
 This result demonstrate that NPFR-RD type transcript is expressed in the ab3A neurons to receive NPF signal directly.
