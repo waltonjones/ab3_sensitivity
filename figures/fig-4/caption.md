@@ -1,5 +1,9 @@
-**Figure 4. The ab3A neurons express NPFR**
+**Figure 4. The ab3A neurons express NPFR.**
 
-(A, B) Quantified odor-evoked activities of Or22a-expressing ab3A neurons responding to 10-6, 10-5 (v/v) ethyl butyrate for the NPFR-downregulated flies by ORN-specific Orco-Gal4 and ab3A neuron-specific Or22a-Gal4 drivers. _Data are presented as means ± 95% confidence interval, n≥6, two-way ANOVA, \*\*\*P ≤ 0.001._
-(C) The electrophysiological recording traces of ethyl butyrate(10-6 v/v)-evoked ab3A neurons for the ab3A-specifically NPFR rescued fly and its genetic controls.
-(D) The quantified results of the electrophysiological recordings for the NPFR rescue experiments for the 7-11 day-old flies of mixed sexes. Expressing NPFR-RD transcript restore the sensitivity of the ab3A neurons. _Data are presented as means ± 95% confidence interval, n≥12, one-way ANOVA, \*\*\*P ≤ 0.001._
+(A) Peak odor-evoked activity of ab3A neurons from _Orco>NPF-IR_ flies and the appropriate heterozygous GAL4 and UAS controls (crossed to _w^1118^_) responding to solvent (paraffin oil, PO) or ethyl butyrate (EB 10^-6^ or 10^-5^ v/v).
+(A) Peak odor-evoked activity of ab3A neurons from _Or22a>NPF-IR_ flies and the appropriate heterozygous GAL4 and UAS controls (crossed to _w^1118^_) responding to solvent (paraffin oil, PO) or ethyl butyrate (EB 10^-6^ or 10^-5^ v/v).
+The data in A and B are presented as means ± 95% confidence intervals, two-way ANOVA, _P_ ≤ 0.001 (\*\*\*).
+(C) Sample traces for ab3 sensilla from the indicated genotypes responding to a 0.5 s stimulation (_black bar_) of ethyl butyrate (EB, 10^-6^ v/v).
+(D) A quantification of the results represented in C.
+Recordings were performed on 7--11 day-old flies of both sexes. Cell-specific expression of _NPFR-RD_, but not _NPFR-RB_, in ab3A neurons using Or22a-GAL4 rescues the reduced sensitivity of the _NPFR^c01896^_ mutant.
+The data in D are presented as means ± 95% confidence intervals, one-way ANOVA, _P_ ≤ 0.001 (\*\*\*).
