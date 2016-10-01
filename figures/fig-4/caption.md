@@ -5,5 +5,6 @@
 The data in A and B are presented as means ± 95% confidence intervals, two-way ANOVA, _P_ ≤ 0.001 (\*\*\*).
 (C) Sample traces for ab3 sensilla from the indicated genotypes responding to a 0.5 s stimulation (_black bar_) of ethyl butyrate (EB, 10^-6^ v/v).
 (D) A quantification of the results represented in C.
-Recordings were performed on 7--11 day-old flies of both sexes. Cell-specific expression of _NPFR-RD_, but not _NPFR-RB_, in ab3A neurons using Or22a-GAL4 rescues the reduced sensitivity of the _NPFR^c01896^_ mutant.
+Recordings were performed on 7--11 day-old flies of both sexes.
+ab3A neuron-specific expression of _NPFR-RD_ but not _NPFR-RB_using Or22a-GAL4 rescues the reduced EB sensitivity of the _NPFR^c01896^_ mutant.
 The data in D are presented as means ± 95% confidence intervals, one-way ANOVA, _P_ ≤ 0.001 (\*\*\*).
