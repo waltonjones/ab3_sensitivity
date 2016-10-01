@@ -1,4 +1,4 @@
-## NPFR is required in ab3A neurons for behavioral attraction to fruit odor
+## NPFR in ab3A neurons modulates behavioral attraction to fruit odor
 
 We also tried to verify the importance of NPF-NPFR signaling for a fly's foraging ability.
 One of the conventional methods which have been used for testing fly's attraction behavior is the trap-assay \cite{Park_2002}.
