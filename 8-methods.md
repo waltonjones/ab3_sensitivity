@@ -23,7 +23,7 @@ The primers (5' to 3') were as follows: Or22a (CGACGAACAGTTTTACATCTC, AATGCGTCAA
 
 ## Immunofluorescence
 We performed antennal immunostaining experiments as previously described \cite{Dobritsa_2003} using a immunopurified rabbit polyclonal antibody raised against an OR22a peptide (NH2-C-MLSKFFPHIKEKPLSERVKS-COOH) \cite{Dobritsa_2003} at 1.3 µg/ml.
-As a secondary antibody, we used goat anti-rabbit IgG Alexa Fluor 488 (Abcam ab150085, USA) at 1:800 v/v.
+As a secondary antibody, we used goat anti-rabbit IgG Alexa Fluor 488 (Abcam ab150085, UK) at 1:800 v/v.
 
 We performed whole-mount brain immunostaining experiments as previously described \cite{Vosshall_2000} using a rabbit polyclonal anti-NPF antibody (RB-19-0001, RayBiotech, USA) at 0.2 mg/ml and nc82 (AB_2314866, DSHB, USA) at 7 µg/ml.
 As secondary antibodies, we used goat anti-rabbit IgG Alexa Fluor 488 and goat anti-mouse IgG Alexa Fluor 594 (A-11005, Thermofisher, USA) at 1:100 v/v.

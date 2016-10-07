@@ -1,12 +1,12 @@
-## NPFR in ab3A neurons modulates behavioral attraction to fruit odor
+## NPFR in ab3A neurons modulates olfactory-guided behavior
 
-We also tried to verify the importance of NPF-NPFR signaling for a fly's foraging ability.
-One of the conventional methods which have been used for testing fly's attraction behavior is the trap-assay \cite{Park_2002}.
-However, testing a behavior of the flies in group often produces confusing results because of the behavioral interferences caused by other flies, masking the effects of the tested cues \cite{Ramdya_2014}.
-To address this problem, we have designed new assay for testing single fly's attraction behavior (Fig 5A).
-As illustrated, a single fly is introduced into the "origin chamber" containing wet Kimwipes.
-And through a narrow tube, the fly can move into the "bait chamber" which contains an odorous bait.
-For a bait, we used fresh apple juice which showed very similar response profile to ethyl butyrate by fly's antennal large basiconic ORNs (Fig 5B). 
+We next asked whether NPF-NPFR signaling in the ab3A neurons modulates olfactory guided-behaviors.
+Trap assays are often used to test olfactory function at the behavioral level \cite{Park_2002}, but they can produce fairly noisy data (data not shown).
+Since social cues modulate olfactory behavior in flies \cite{Ramdya_2014}, we designed a new trap assay for individual flies (Fig 5A), hoping to measure olfactory attraction at a higher signal-to-noise ratio.
+Our olfactory trap assays comprise an origin chamber and a bait chamber connected by a narrow length of plastic tubing only slightly wider than an individual fly.
+Although the origin chambers contain wet tissue as a water source, there is no food.
+At first, the individual flies in the origin chamber resist traveling through the narrow tube, but as they starve over the course of the assay, the odor source lures them into the adjoining bait chamber.
+As bait, we used fresh apple juice (10^-1^ v/v), which produces similar responses to ethyl butyrate (10^-4^ v/v) in the OSNs of the large basiconic sensilla, including the ab3A neurons (Fig 5B). 
 
 We first examined this assay to make sure that this setting is valid for testing fly's attraction behavior.
 As expected, in the dark, more than 70% of the w1118 flies moved into the "bait chamber" containing apple juice (Fig 5C).
