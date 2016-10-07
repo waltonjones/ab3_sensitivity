@@ -11,11 +11,11 @@ After assembling the traps, we place them in a dark 25 °C incubator for 40 hour
 From 40--50 hours, we check the traps every 2 hours removing and counting "successes" in which the individual flies travel to the bait chamber.
 We chose fresh apple juice (10^-1^ v/v) as a bait because it provides a source of sugar and has induces a similar olfactory response in the OSNs of large basiconic sensilla as ethyl butyrate (10^-4^ v/v) (Fig 5B). 
 
-To confirm our single fly trap assay measures olfactory attraction, we first performed some control experiments.
-As expected, in the dark, more than 70% of the w1118 flies moved into the "bait chamber" containing apple juice (Fig 5C).
-On the other hand, less than 20% of the w1118 flies moved into the "bait chamber" when it contains distilled water.
-In addition, less than 30% of the Orco1 mutant flies which have no functional ORNs could locate the apple juice bait.
-This result demonstrate that this new assay setting is valid for testing ORN-mediated fly's attraction to fruit odor.
+To confirm our single fly trap assay measures olfactory attraction, we performed some initial control experiments.
+While more than 70% of _w^1118^_ flies move to bait chambers containing apple juice, no flies move when the origin chamber contains the apple juice (Fig 5C).
+If both chambers contain water, fewer than 20% of _w^1118^_ flies cross to the bait chamber within 50 hours.
+In addition, with _Orco^1^_ flies, whose large basiconic sensilla are non-functional, fewer than 30% locate the apple juice bait.
+These results validate the single fly trap assay for measuring olfactory-guided attraction to fruit odor.
 
 Next we wondered if the fly's attraction behavior to apple juice is solely mediated by the ethyl butyrate-sensitive ab3A neurons.
 To address this question, we used the ab3A neuron-specific Or22a-down-regulated flies, which have desensitized ab3A neurons.
