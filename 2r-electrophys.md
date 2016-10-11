@@ -1,10 +1,11 @@
 ## NPF-NPFR signaling sensitizes ab3A neurons
 
-In an effort to clarify the mechanism underlying this modulation of the ab3A neurons, we crossed _386Y-Gal4_---a GAL4 enhancer trap expressed in many peptidergic neurons in the adult fly brain---to several neuropeptide-specific RNAi lines.
-We found ab3A neurons depleted of Neuropeptide F (NPF) are significantly less sensitive to EB than heterozygous controls (Fig 2A).
+We expected this modulation of the ab3A neurons may be  peptidergic.
+Indeed, the combination of a GAL4 enhancer trap expressed in many adult peptidergic neurons (_386Y-Gal4_) with an RNAi line specific to Neuropeptide F (NPF) (_UAS-NPF-IR_) significantly reduces the sensitivity of ab3A neurons to EB (Fig 2A).
 In _Drosophila_, NPF has been implicated in several physiological phenomena including appetite regulation \cite{Wu_2003} and the modulation of gustatory responses to sugar \cite{Inagaki_2014}.
-We also found limiting the knock-down of NPF to NPFergic neurons using _NPF-GAL4_, produces an even larger reduction in ab3A sensitivity to EB (Fig 2B). 
-This reduction in peripheral olfactory sensitivity is specific to the odor-evoked activity of the ab3A neurons, as their spontaneous activity is unaffected by NPF knock-down (Fig. 2C).
+We also found limiting the knock-down of NPF to NPFergic neurons using _NPF-GAL4_, produces an even larger reduction in ab3A sensitivity to EB (Fig 2B).
+_NPF>NPF-IR_ brains show almost no NPF signal compared to the appropriate heterozygous controls (i.e., crossed to _w^1118^_) (Fig. S1).
+The reduction in peripheral olfactory sensitivity is specific to the odor-evoked activity of the ab3A neurons, as their spontaneous activity is unaffected by NPF knock-down (Fig. 2C).
 It is also specific to the ab3A neuronal subclass.
 The sensitivity of both ab1A/B and ab2A to EB and methyl acetate (MA), respectively, are unaffected by NPF knock-down (Fig. 2D, E).
 Here, we did not sort ab1A spikes from ab1B spikes because the similar amplitudes of both classes of spikes complicate the sorting process.
