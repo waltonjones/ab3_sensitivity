@@ -7,7 +7,7 @@ The single fly olfactory trap assay comprises an origin chamber and a bait chamb
 Although the origin chambers contain wet tissue as a water source, there is no food.
 At first, the individual flies in the origin chamber resist traveling through the narrow tube, but as they starve over the course of the assay, the odor source lures them into the adjoining bait chamber.
 To perform the assay, we habituate individual 7--10 day-old male flies in vials containing a tissue soaked with fresh apple juice. 
-After assembling the traps, we place them in a dark 25 °C incubator for 40 hours.
+After assembling the traps, we place them in a dark, room temperature chamber for 40 hours.
 From 40--50 hours, we check the traps every 2 hours removing and counting "successes" in which the individual flies travel to the bait chamber.
 We chose fresh apple juice (10^-1^ v/v) as a bait because it provides a source of sugar and has induces a similar olfactory response in the OSNs of large basiconic sensilla as ethyl butyrate (10^-4^ v/v) (Fig. 5B). 
 
