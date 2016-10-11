@@ -32,7 +32,7 @@ As secondary antibodies, we used goat anti-rabbit IgG Alexa Fluor 488 and goat a
 For the behavioral assays, we aged male flies 7--10 days on standard food and then habituated them on apple juice for 1 day.
 For each genotype or condition, we introduced individual flies (n ≥ 10) into origin vials connected to bait vials by a narrow length of straw just wide enough for a single fly to pass.
 Figure 5A shows a photo and a schematic of a completed olfactory trap assembly.
-After aging and habituation, we placed each loaded trap assembly in a dark 25 °C incubator for 40 hours.
+After aging and habituation, we placed each loaded trap assembly in a dark, room temperature chamber for 40 hours.
 From 40--50 hours, we checked the assay assemblies every two hours to remove those in which the flies had moved into the bait chambers.
 We used this strategy because preliminary experiments indicated the flies grow sufficiently hungry and therefore motivated to find food over the initial 40 hours of starvation.
 As the results for this assay are binary (i.e., success or failure in reaching the bait), we used Fisher's exact test in our statistical analysis of the results.
