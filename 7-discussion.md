@@ -1,9 +1,20 @@
 # Discussion
 
-Our study demonstrate a previously unknown NPF-NPFR mediated olfactory sensitization mechanism which plays a role in helping fly's foraging ability for fruits - natural sugar sources. Fruit flies are highly attracted to sugar which is contained in various fruits in nature. Although the various kinds of sugars are not volatile, flies can detect those fruits at a distance because of the fruit aroma that is produced and diffused by the fruits. Fruit flies use these odors to navigate and locate the fruits which are necessary for them to refuel their body and survive. Whether the correlation between fruit aroma and sucrose source in the fly's nervous system is fully encoded in their genome or if it is partially obtained by learning is unclear yet.
+Here, we identified a role in _Drosophila_ for Neuropeptide F (NPF) and its receptor NPFR in modulating the peripheral sensitivity of the ab3A class of olfactory sensory neurons (OSNs).
+These neurons detect a range of fruity-smelling esters associated with the fruits that provide _Drosophila_ food and a place to lay their eggs.
+We showed loss of NPF in NPF neurons reduces odor-evoked spiking of ab3A neurons in response to ethyl butyrate without affecting their spontaneous activity.
+It does not, however, affect the responses of ab1A or ab2A neurons to their preferred ligands.
+We also showed the ab3A neurons themselves must express NPFR to exhibit this change in olfactory sensitivity, as ab3A-specific expression of NPFR rescues the reduced olfactory sensitivity induced by the hypomorphic NPFR mutation _NPFR^c01896^_. 
 
-Although a fly's olfactory receptor neurons are ordinarily very sensitive, they must be even more sensitized depending on their internal needs. Because, the area of activity of a fly is wide and a sugar-containing food is relatively rare in the natural environment.
+Root et al. found the neuropeptide sNPF modulates the responses of DM1, DM2, and DM4---the antennal lobe glomeruli that receive input from the ab1A, ab3A, and ab2A neurons, respectively \cite{Root_2011}.
+They found that the ab1A, ab2A, and ab3A neurons themselves produce sNPF, and that once released, it alters the calcium responses of their own pre-synaptic terminals.
+This acts as a sort of gain control, enhancing the activation of the corresponding second-order olfactory projection neurons.
+In the ab1A neurons, they were able to unambiguously attribute this pre-synaptic gain control to the sNPF receptor sNPFR1 and show that the expression of sNPFR1 is altered by insulin signaling and starvation.
+This means the ab1A neurons, which respond to food-related esters like the ab3A neurons, induce larger responses in their assocaited projection neurons in times of starvation, enhancing foraging behavior.
+
+
+
 
 When a fly is hungry, the NPF secretion in the fly brain is stimulated, in turn, sugar-sensitive Gr5a neurons are sensitized via dopamine signaling \cite{Inagaki_2014}. Considering our study that when NPF-NPFR signaling is activated, it also sensitize the olfactory sensitivity for the major fruit odor-ethyl butyrate, NPF seems to be a neuropeptide molecule that is masterminding sugar-related peripheral sensitivity. 
 
-In addition, although the amino acid sequences of the mature peptides of Drosophila NPF and human NPY are poorly identical (19.4%), dNPF and mammalian NPY are shown to mediate similar physiological functions for feeding and metabolism \cite{Beck_2001} \cite{Lingo_2007} \cite{Wu_2003} \cite{Wu_2005}. Furthermore, NPY producing cells are inhibited by high level of leptin which are quite similar to the functionally analogous Drosophila Upd2 \cite{Elmquist_1999} \cite{Barb_2006} \cite{Rajan_2012}. Besides, NPY gene expression is inhibited by mammalian insulin \cite{Sato_2005} and there is also insulin like peptides in Drosophila (Dilps). Taken together, our results suggest that NPY signaling may also be involved in sensitizing mammalian olfactory sensitivity for sugar sources, eventually stimulating the appetite and eating behavior.
+It is unclear what these OR22a-positive puncta are, but they Benton et al. showed significant overlap of the mislocalized OR22a protein in _Orco^1^_ mutant antennae with a marker of the endoplasmic reticulum ... are these internalized or simply not externalized yet? 
