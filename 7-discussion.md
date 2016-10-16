@@ -29,8 +29,7 @@ As a G protein-coupled receptor, NPFR may induce an increase in intracellular ca
 In this study, we also found female flies show lower ab3A sensitivity immediately post-eclosion than male flies, but that this difference disappears as the flies age.
 We found a clear correlation between ab3A sensitivity and NPF staining in young female versus male brains and showed that this sexual dimorphism is absent in _NPFR^c01896^_ mutants.
 The function of this sexual dimorphism is unclear, but it may enhance dispersal of young females to new and more palatable food sources.
-Once _Drosophila_ larvae reach their final instar, they stop foraging and move out of their food to find a dry location to pupate.
-A piece of fruit that was a suitable place for laying eggs at the beginning of one round of the 10--14 day _Drosophila_ life cycle may be less suitable for a second.
+Once _Drosophila_ larvae reach their final larval instar, they stop foraging and move out of their food to find a dry location to pupate.
+A piece of fruit that was suitable for laying eggs at the beginning of one round of the 10--14 day _Drosophila_ life cycle may be less suitable for a second.
 Thus, the reduction in olfactory sensitivity to fruit odors we observe in young female flies may help encourage them to find new food sources for egg laying.
-
-When a fly is hungry, the NPF secretion in the fly brain is stimulated, in turn, sugar-sensitive Gr5a neurons are sensitized via dopamine signaling \cite{Inagaki_2014}. Considering our study that when NPF-NPFR signaling is activated, it also sensitize the olfactory sensitivity for the major fruit odor-ethyl butyrate, NPF seems to be a neuropeptide molecule that is masterminding sugar-related peripheral sensitivity. 
+It will be interesting to test this hypothesis in future studies.
