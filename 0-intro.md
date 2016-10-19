@@ -1,4 +1,4 @@
-# Introduction
+# Background
 
 Olfactory-guided behaviors, especially feeding behaviors, are central to both the positive and negative impacts insects have on human society.
 Honeybees and other insect pollinators depend heavily on their highly sensitive olfactory systems to find food.
