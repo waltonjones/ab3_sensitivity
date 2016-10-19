@@ -26,7 +26,7 @@ This supports the former hypothesis---a specific reduction in the trafficking of
 Bahk and Jones recently showed calmodulin interacts with Orco to regulate OR trafficking to the ciliated outer dendrites in an OSN activity-dependent manner \cite{Bahk_2016}.
 As a G protein-coupled receptor, NPFR may induce an increase in intracellular calcium that acts through calmodulin to alter OR22a trafficking, but the signaling pathways downstream of NPFR have not yet been characterized.
 
-In this study, we also found female flies show lower ab3A sensitivity immediately post-eclosion than male flies, but that this difference disappears as the flies age.
+In this study, we also found female flies show lower ab3A sensitivity immediately post-eclosion than male flies, but this difference disappears as the flies age.
 We found a clear correlation between ab3A sensitivity and NPF staining in young female versus male brains and showed that this sexual dimorphism is absent in _NPFR^c01896^_ mutants.
 The function of this sexual dimorphism is unclear, but it may enhance dispersal of young females to new and more palatable food sources.
 Once _Drosophila_ larvae reach their final larval instar, they stop foraging and move out of their food to find a dry location to pupate.

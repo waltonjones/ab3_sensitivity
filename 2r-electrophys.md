@@ -1,7 +1,7 @@
 ## NPF-NPFR signaling sensitizes ab3A neurons
 
 We expected this modulation of the ab3A neurons may be  peptidergic.
-Indeed, the combination of a GAL4 enhancer trap expressed in many adult peptidergic neurons (_386Y-Gal4_) with an RNAi line specific to Neuropeptide F (NPF) (_UAS-NPF-IR_) significantly reduces the sensitivity of ab3A neurons to EB (Fig 2A).
+Indeed, the combination of a GAL4 enhancer trap expressed in many adult peptidergic neurons (_386Y-GAL4_) with an RNAi line specific to Neuropeptide F (NPF) (_UAS-NPF-IR_) significantly reduces the sensitivity of ab3A neurons to EB (Fig 2A).
 In _Drosophila_, NPF has been implicated in several physiological phenomena including appetite regulation \cite{Wu_2003} and the modulation of gustatory responses to sugar \cite{Inagaki_2014}.
 We also found limiting the knock-down of NPF to NPFergic neurons using _NPF-GAL4_, produces an even larger reduction in ab3A sensitivity to EB (Fig 2B).
 _NPF>NPF-IR_ brains show almost no NPF signal compared to the appropriate heterozygous controls (i.e., crossed to _w^1118^_) (Fig. S1).
