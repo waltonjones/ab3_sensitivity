@@ -14,6 +14,5 @@ figures/fig-5/fig-5.png
 figures/fig-6/fig-6.png
 7-discussion.md
 8-conclusion.md
-Insects_affect_human_society_with__.md
 9-methods.md
 figures/fig-S1/fig-S1.png
