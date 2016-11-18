@@ -1,7 +1,7 @@
 # Materials and methods
 ## Fly stocks
 Unless otherwise indicated, we maintained all fly stocks at 25 °C and 60% relative humidity under a 12h:12h light:dark cycle on standard cornmeal-yeast-corn syrup medium with 1.5 g/L of the anti-fungal Tegosept.
-We acquired the following fly stocks from either the Bloomington _Drosophila_ Stock Center (BDSC) or the Vienna _Drosophila_ Resource Center (VDRC) for use in our experiments :  _Canton-S_ (BDSC #1), _w^1118^_ (BDSC #5905), _NPF-GAL4_ (BDSC #25681), _UAS-NPF-IR_ (VDRC #108772), _386Y-GAL4_ (BDSC #25410), _NPFR^c01896^_ (BDSC #10747), _NPFR^Def^_ (BDSC #1982), _Orco-GAL4_ (BDSC #23292), _Or22a-GAL4_  (BDSC #9951), _UAS-NPFR-IR_ (VDRC #9605).
+We acquired the following fly stocks from either the Bloomington _Drosophila_ Stock Center (BDSC) or the Vienna _Drosophila_ Resource Center (VDRC) for use in our experiments :  _Canton-S_ (BDSC #1), _w^1118^_ (BDSC #5905), _NPF-GAL4_ (BDSC #25681), _UAS-NPF-IR_ (VDRC #108772), _386Y-GAL4_ (BDSC #25410), _NPFR^c01896^_ (BDSC #10747), _NPFR^Def^_ (BDSC #1982), _Orco-GAL4_ (BDSC #23292), _Or22a-GAL4_ (BDSC #9951), _UAS-NPFR-IR_ (VDRC #9605).
 We generated the _UAS-NPFR-RD_ and _UAS-NPFR-RB_ stocks by cloning NPFR cDNAs from _Drosophila_ heads, sub-cloning them into a pUAS-T attB-containing vector, and injecting the resulting plasmids into eggs of a fly stock containing an attP landing site flies (BDSC #9736) using standard techniques.
 
 ## Electrophysiology
