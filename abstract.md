@@ -1,5 +1,3 @@
-# Abstract
-
 ## Background
 Animal olfactory systems detect volatile environmental chemicals and integrate this information to direct the finding of food and mates as well as the avoidance of danger.
 Rather than remaining constant, olfactory sensitivity thresholds can be modulated by internal and external cues to adapt odor-guided behaviors to changing conditions.
